@@ -1,0 +1,25 @@
+ONTARIO HEALTH INTELLIGENCE
+EXPLORATORY FORECASTING METHODOLOGY
+============================================================
+
+Metric: Provincial ED length of stay,
+90th percentile, admitted patients, hours
+
+Historical observations: 5
+Common backtest years: 3
+Previous-year MAE: 2.70 hours
+Two-year average MAE: 3.58 hours
+
+EXPLORATORY NEXT-YEAR SCENARIOS
+fiscal_year                  method  projected_p90_hours      projection_type
+  2026–2027  Previous-year baseline                38.30 Exploratory scenario
+  2026–2027 Two-year moving average                41.35 Exploratory scenario
+
+LIMITATIONS
+- Only five annual observations are available.
+- Three years are used in the common backtest.
+- Results do not establish reliable predictive accuracy.
+- Scenarios are not official CIHI forecasts.
+- No confidence intervals are estimated.
+- Changes in hospital operations or reporting
+  practices are not modeled.

@@ -1,0 +1,28 @@
+# Local Python / editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Regenerable intermediate artifacts
+data/processed/ontario_ed_all_records.csv
+data/processed/ontario_ed_numeric_records.csv
+data/processed/ontario_health.db
+reports/cleaning_summary.txt
+reports/data_quality_audit.txt
+reports/privacy_audit.txt
+reports/statistical_summary.txt
+reports/forecast_visualization.png
+
+# Do not accidentally commit machine-local secrets or unreviewed screenshots
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+screenshots/

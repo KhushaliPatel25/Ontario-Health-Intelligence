@@ -1,0 +1,17 @@
+﻿fiscal_year,hospital_peer_group,valid_comparisons,decreased_count,increased_count,unchanged_count,percent_decreased,mean_change_hours
+2022–2023,Community — Large,32,1,31,0,3.1,10.19
+2022–2023,Community — Medium,37,4,33,0,10.8,8.48
+2022–2023,Community — Small,70,21,47,2,30.0,4.1
+2022–2023,Teaching,21,0,20,1,0.0,7.7
+2023–2024,Community — Large,32,18,13,1,56.3,-1.02
+2023–2024,Community — Medium,37,20,17,0,54.1,-1.57
+2023–2024,Community — Small,69,37,31,1,53.6,-0.94
+2023–2024,Teaching,21,12,9,0,57.1,-2.06
+2024–2025,Community — Large,32,12,20,0,37.5,1.72
+2024–2025,Community — Medium,37,16,20,1,43.2,1.13
+2024–2025,Community — Small,68,27,41,0,39.7,2.42
+2024–2025,Teaching,21,12,9,0,57.1,-1.11
+2025–2026,Community — Large,32,27,5,0,84.4,-5.41
+2025–2026,Community — Medium,37,21,16,0,56.8,-4.06
+2025–2026,Community — Small,69,44,25,0,63.8,-3.22
+2025–2026,Teaching,21,16,5,0,76.2,-1.99

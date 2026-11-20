@@ -1,0 +1,31 @@
+﻿health_region,fiscal_year,p90_wait_hours,previous_year_hours,yoy_change_hours,yoy_change_percent,regional_p90_rank
+North East Region (Ont.),2021–2022,26.8,,,,1
+North West Region (Ont.),2021–2022,29.9,,,,2
+West Region (Ont.),2021–2022,30.2,,,,3
+Toronto Region (Ont.),2021–2022,32.2,,,,4
+Central Region (Ont.),2021–2022,35.0,,,,5
+East Region (Ont.),2021–2022,35.4,,,,6
+North East Region (Ont.),2022–2023,31.3,26.8,4.5,16.79,1
+North West Region (Ont.),2022–2023,33.6,29.9,3.7,12.37,2
+Toronto Region (Ont.),2022–2023,41.5,32.2,9.3,28.88,3
+West Region (Ont.),2022–2023,42.0,30.2,11.8,39.07,4
+East Region (Ont.),2022–2023,46.7,35.4,11.3,31.92,5
+Central Region (Ont.),2022–2023,51.0,35.0,16.0,45.71,6
+North West Region (Ont.),2023–2024,27.9,33.6,-5.7,-16.96,1
+Toronto Region (Ont.),2023–2024,36.6,41.5,-4.9,-11.81,2
+North East Region (Ont.),2023–2024,39.7,31.3,8.4,26.84,3
+West Region (Ont.),2023–2024,40.9,42.0,-1.1,-2.62,4
+East Region (Ont.),2023–2024,44.9,46.7,-1.8,-3.85,5
+Central Region (Ont.),2023–2024,51.4,51.0,0.4,0.78,6
+North West Region (Ont.),2024–2025,29.9,27.9,2.0,7.17,1
+Toronto Region (Ont.),2024–2025,36.6,36.6,0.0,0.0,2
+West Region (Ont.),2024–2025,39.9,40.9,-1.0,-2.44,3
+North East Region (Ont.),2024–2025,46.2,39.7,6.5,16.37,4
+East Region (Ont.),2024–2025,46.5,44.9,1.6,3.56,5
+Central Region (Ont.),2024–2025,51.9,51.4,0.5,0.97,6
+North West Region (Ont.),2025–2026,28.1,29.9,-1.8,-6.02,1
+Toronto Region (Ont.),2025–2026,33.5,36.6,-3.1,-8.47,2
+West Region (Ont.),2025–2026,34.0,39.9,-5.9,-14.79,3
+North East Region (Ont.),2025–2026,34.2,46.2,-12.0,-25.97,4
+East Region (Ont.),2025–2026,38.2,46.5,-8.3,-17.85,5
+Central Region (Ont.),2025–2026,48.0,51.9,-3.9,-7.51,6

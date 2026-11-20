@@ -1,0 +1,637 @@
+﻿hospital,corporation,hospital_peer_group,fiscal_year,previous_p90_hours,current_p90_hours,change_hours,change_percent,trend_direction
+Ctr for Addiction MH Corp. — Centre for Addiction and Mental Health (Ont.),Centre for Addiction & Mental Health Corporation (Ont.),Teaching,2025–2026,25.3,46.9,21.6,85.38,Increased
+Northumberland Hills Hospital (Ont.),–,Community — Medium,2025–2026,20.9,38.0,17.1,81.82,Increased
+Perth and Smiths Falls District Hospital — Great War Memorial Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2025–2026,29.3,43.4,14.1,48.12,Increased
+MICs Group of Health Services — Bingham Memorial Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2025–2026,10.9,24.2,13.3,122.02,Increased
+Perth and Smiths Falls District Hospital — Smiths Falls Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2025–2026,35.2,46.5,11.3,32.1,Increased
+Carleton Place and District Memorial Hospital (Ont.),–,Community — Small,2025–2026,17.8,26.6,8.8,49.44,Increased
+Haliburton Highlands Health Services — Haliburton (Ont.),Haliburton Highlands Health Services (Ont.),Community — Small,2025–2026,70.3,77.3,7.0,9.96,Increased
+Joseph Brant Hosp Corp — Joseph Brant Hospital (Ont.),Joseph Brant Hospital Corporation (Ont.),Community — Large,2025–2026,24.3,30.4,6.1,25.1,Increased
+Woodstock Hospital (Ont.),–,Community — Medium,2025–2026,10.1,16.2,6.1,60.4,Increased
+Quinte Health — Trenton Memorial Hospital (Ont.),Quinte Health (Ont.),Community — Small,2025–2026,40.5,46.3,5.8,14.32,Increased
+Middlesex Hospital Alliance — Strathroy Middlesex General Hospital (Ont.),Middlesex Hospital Alliance (Ont.),Community — Medium,2025–2026,26.8,32.5,5.7,21.27,Increased
+Manitoulin Health Centre — Mindemoya Hospital Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2025–2026,18.5,23.1,4.6,24.86,Increased
+Hôpital Glengarry Memorial Hospital (Ont.),–,Community — Small,2025–2026,16.4,20.7,4.3,26.22,Increased
+Sault Area Hospital — Sault Area Hospital (Ont.),Sault Area Hospital (Ont.),Community — Large,2025–2026,51.8,56.0,4.2,8.11,Increased
+North Wellington Health Care Corp. — Louise Marshall Hospital (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2025–2026,14.7,18.3,3.6,24.49,Increased
+Humber River Health — Wilson Site (Ont.),Humber River Health (Ont.),Community — Large,2025–2026,19.7,23.0,3.3,16.75,Increased
+Brightshores Health System — Lion’s Head Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2025–2026,14.9,18.1,3.2,21.48,Increased
+Lake of the Woods Dist Hosp Corp — Lake of the Woods District Hosp. (Ont.),Lake of the Woods District Hospital Corporation (Ont.),Community — Medium,2025–2026,24.0,27.2,3.2,13.33,Increased
+Sinai Health System — Mount Sinai Hospital (Ont.),Sinai Health System (Ont.),Teaching,2025–2026,41.1,44.1,3.0,7.3,Increased
+Georgian Bay General Hospital — Midland Site (Ont.),Georgian Bay General Hospital (Ont.),Community — Medium,2025–2026,39.7,42.5,2.8,7.05,Increased
+The Ottawa Hospital — General Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2025–2026,42.2,44.9,2.7,6.4,Increased
+Cambridge Mem Hosp Corp — Cambridge Memorial Hospital (Ont.),Cambridge Memorial Hospital Corporation (Ont.),Community — Medium,2025–2026,53.0,55.6,2.6,4.91,Increased
+Arnprior Regional Health — Arnprior & District Memorial Hospital (Ont.),Arnprior Regional Health (Ont.),Community — Small,2025–2026,14.6,17.1,2.5,17.12,Increased
+West Parry Sound Health Centre (Ont.),–,Community — Medium,2025–2026,21.0,23.4,2.4,11.43,Increased
+William Osler Health System — Etobicoke General Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2025–2026,50.3,52.7,2.4,4.77,Increased
+Nipigon District Memorial Hospital (Ont.),–,Community — Small,2025–2026,18.3,20.6,2.3,12.57,Increased
+Chatham-Kent Health Alliance — Chatham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Medium,2025–2026,24.0,26.1,2.1,8.75,Increased
+North of Superior Healthcare Group — The McCausland Hospital (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2025–2026,7.7,9.8,2.1,27.27,Increased
+Oak Valley Health — Uxbridge Hospital (Ont.),Oak Valley Health (Ont.),Community — Small,2025–2026,21.2,23.3,2.1,9.91,Increased
+Quinte Health — North Hastings District Hospital (Ont.),Quinte Health (Ont.),Community — Small,2025–2026,27.5,29.5,2.0,7.27,Increased
+Geraldton District Hospital (Ont.),–,Community — Small,2025–2026,23.3,25.2,1.9,8.15,Increased
+Kemptville District Hospital (Ont.),–,Community — Small,2025–2026,20.5,22.3,1.8,8.78,Increased
+Almonte General Hospital (Ont.),–,Community — Small,2025–2026,13.8,15.4,1.6,11.59,Increased
+Red Lake Margaret Cochenour Memorial Hospital (Ont.),–,Community — Small,2025–2026,21.5,23.1,1.6,7.44,Increased
+Riverside Health Care Facilities — La Verendrye Hospital (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2025–2026,10.2,11.6,1.4,13.73,Increased
+Michael Garron Hosp Corp — Michael Garron Hospital (Ont.),Michael Garron Hospital Corporation (Ont.),Community — Large,2025–2026,28.8,30.0,1.2,4.17,Increased
+Halton Healthcare Services — Georgetown Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2025–2026,29.8,30.8,1.0,3.36,Increased
+Pembroke Regional Hospital Inc. (Ont.),–,Community — Medium,2025–2026,24.5,25.5,1.0,4.08,Increased
+Espanola General Hospital (Ont.),–,Community — Small,2025–2026,12.2,13.1,0.9,7.38,Increased
+North of Superior Healthcare Group — Wilson Mem. Gen. Hosp. (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2025–2026,10.2,11.1,0.9,8.82,Increased
+St. Joseph’s Health Care London — St. Joseph’s Hospital (Ont.),St. Joseph’s Health Care London (Ont.),Teaching,2025–2026,8.6,9.5,0.9,10.47,Increased
+Alexandra Marine and General Hospital (Ont.),–,Community — Small,2025–2026,17.8,18.6,0.8,4.49,Increased
+Sioux Lookout Meno Ya Win — Sioux Lookout Meno Ya Win Health Centre (Ont.),Sioux Lookout Meno Ya Win Health Centre (Ont.),Community — Medium,2025–2026,12.0,12.8,0.8,6.67,Increased
+The Ottawa Hospital — Civic Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2025–2026,45.0,45.7,0.7,1.56,Increased
+Atikokan General Hospital (Ont.),–,Community — Small,2025–2026,8.7,9.3,0.6,6.9,Increased
+North Shore Health Network — Blind River District Health Centre (Ont.),North Shore Health Network (Ont.),Community — Small,2025–2026,15.5,16.1,0.6,3.87,Increased
+St. Thomas Elgin General Hospital (Ont.),–,Community — Medium,2025–2026,7.8,8.2,0.4,5.13,Increased
+Temiskaming Hospital (Ont.),–,Community — Medium,2025–2026,10.6,11.0,0.4,3.77,Increased
+North Wellington Health Care Corp. — Palmerston and District Hosp. (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2025–2026,10.1,10.4,0.3,2.97,Increased
+Renfrew Victoria Hospital (Ont.),–,Community — Medium,2025–2026,14.1,14.3,0.2,1.42,Increased
+Weeneebayko Area Health Authority — Moose Factory Site (Ont.),Weeneebayko Area Health Authority (Ont.),Community — Small,2025–2026,25.0,25.2,0.2,0.8,Increased
+Cornwall Community Hospital — McConnell Avenue Site (Ont.),Cornwall Community Hospital (Ont.),Community — Medium,2025–2026,19.2,19.1,-0.1,-0.52,Decreased
+Hôpital Montfort Corp — Hôpital Montfort (Ont.),Hôpital Montfort Corporation (Ont.),Teaching,2025–2026,26.6,26.5,-0.1,-0.38,Decreased
+Quinte Health — Belleville General Hospital (Ont.),Quinte Health (Ont.),Community — Large,2025–2026,32.9,32.8,-0.1,-0.3,Decreased
+Mackenzie Health — Cortellucci Vaughan Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2025–2026,43.8,43.6,-0.2,-0.46,Decreased
+Oak Valley Health — Markham Stouffville Hospital (Ont.),Oak Valley Health (Ont.),Community — Large,2025–2026,42.7,42.5,-0.2,-0.47,Decreased
+Sensenbrenner Hospital (Ont.),–,Community — Small,2025–2026,11.0,10.8,-0.2,-1.82,Decreased
+Hospital for Sick Children (Ont.),–,Teaching,2025–2026,14.8,14.5,-0.3,-2.03,Decreased
+Huron Perth Healthcare Alliance — Clinton Public Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2025–2026,10.6,10.3,-0.3,-2.83,Decreased
+Listowel Memorial Hospital (Ont.),–,Community — Small,2025–2026,10.0,9.7,-0.3,-3.0,Decreased
+South Bruce Grey Health Centre — Chesley Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2025–2026,7.6,7.3,-0.3,-3.95,Decreased
+Blanche River Health — Englehart and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2025–2026,9.7,9.3,-0.4,-4.12,Decreased
+Guelph Gen Hosp Corp — Guelph General Hospital (Ont.),Guelph General Hospital Corporation (Ont.),Community — Large,2025–2026,28.2,27.8,-0.4,-1.42,Decreased
+Santé Manitouwadge Health (Ont.),–,Community — Small,2025–2026,12.2,11.8,-0.4,-3.28,Decreased
+Bluewater Health — Charlotte Eleanor Englehart Hospital (Ont.),Bluewater Health (Ont.),Community — Small,2025–2026,9.3,8.8,-0.5,-5.38,Decreased
+Chatham-Kent Health Alliance — Sydenham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Small,2025–2026,21.3,20.7,-0.6,-2.82,Decreased
+Blanche River Health — Kirkland and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2025–2026,12.4,11.7,-0.7,-5.65,Decreased
+Hamilton Health Sciences — Hamilton General Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2025–2026,38.7,38.0,-0.7,-1.81,Decreased
+Hamilton Health Sciences — McMaster University Medical Centre (Ont.),Hamilton Health Sciences (Ont.),Teaching,2025–2026,24.4,23.5,-0.9,-3.69,Decreased
+Southlake Health Corp. — Southlake Health (Ont.),Southlake Health Corporation (Ont.),Community — Large,2025–2026,50.4,49.5,-0.9,-1.79,Decreased
+Huron Perth Healthcare Alliance — Stratford General Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Medium,2025–2026,14.4,13.3,-1.1,-7.64,Decreased
+Hôpital Notre-Dame Hospital (Ont.),–,Community — Small,2025–2026,20.2,19.1,-1.1,-5.45,Decreased
+Services de santé de Chapleau Health Services (Ont.),–,Community — Small,2025–2026,24.6,23.5,-1.1,-4.47,Decreased
+Mackenzie Health — Mackenzie Richmond Hill Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2025–2026,45.5,44.1,-1.4,-3.08,Decreased
+Niagara Health System — Greater Niagara General Site (Ont.),Niagara Health System (Ont.),Community — Medium,2025–2026,76.3,74.9,-1.4,-1.83,Decreased
+Scarborough Health Network — Birchmount (Ont.),Scarborough Health Network (Ont.),Community — Large,2025–2026,34.4,33.0,-1.4,-4.07,Decreased
+Children’s Hospital of Eastern Ontario (Ont.),–,Teaching,2025–2026,26.3,24.8,-1.5,-5.7,Decreased
+MICs Group of Health Services — Lady Minto Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2025–2026,14.5,13.0,-1.5,-10.34,Decreased
+Queensway Carleton Hosp Corp — Queensway Carleton Hospital (Ont.),Queensway Carleton Hospital Corporation (Ont.),Community — Large,2025–2026,32.1,30.5,-1.6,-4.98,Decreased
+South Huron Hospital (Ont.),–,Community — Small,2025–2026,18.4,16.6,-1.8,-9.78,Decreased
+Winchester District Memorial Hospital (Ont.),–,Community — Small,2025–2026,23.0,21.1,-1.9,-8.26,Decreased
+Riverside Health Care Facilities — Rainy River Health Centre (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2025–2026,25.8,23.8,-2.0,-7.75,Decreased
+North York General Hospital — General Site (Ont.),North York General Hospital (Ont.),Community — Large,2025–2026,31.0,28.9,-2.1,-6.77,Decreased
+Wingham and District Hospital (Ont.),–,Community — Small,2025–2026,11.3,9.1,-2.2,-19.47,Decreased
+Halton Healthcare Services — Milton District Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2025–2026,27.9,25.5,-2.4,-8.6,Decreased
+Hamilton Health Sciences — Juravinski Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2025–2026,43.2,40.8,-2.4,-5.56,Decreased
+Hanover and District Hospital (Ont.),–,Community — Small,2025–2026,22.0,19.6,-2.4,-10.91,Decreased
+Dryden Regional Health Centre (Ont.),–,Community — Small,2025–2026,11.7,9.2,-2.5,-21.37,Decreased
+Scarborough Health Network — General (Ont.),Scarborough Health Network (Ont.),Community — Large,2025–2026,34.3,31.8,-2.5,-7.29,Decreased
+MICs Group of Health Services — Anson General Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2025–2026,19.3,16.7,-2.6,-13.47,Decreased
+Mattawa Hospital (Ont.),–,Community — Small,2025–2026,15.4,12.8,-2.6,-16.88,Decreased
+Huron Perth Healthcare Alliance — Seaforth Community Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2025–2026,16.9,14.1,-2.8,-16.57,Decreased
+Trillium Health Partners — Mississauga Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2025–2026,57.4,54.6,-2.8,-4.88,Decreased
+Middlesex Hospital Alliance — Four Counties Health Services (Ont.),Middlesex Hospital Alliance (Ont.),Community — Small,2025–2026,30.3,27.3,-3.0,-9.9,Decreased
+London Health Sciences Centre — Victoria Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2025–2026,27.6,24.4,-3.2,-11.59,Decreased
+Unity Health Toronto — St. Michael’s Hospital (Ont.),Unity Health Toronto (Ont.),Teaching,2025–2026,35.1,31.8,-3.3,-9.4,Decreased
+Windsor Regional Hospital — Metropolitan Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2025–2026,33.5,30.2,-3.3,-9.85,Decreased
+Collingwood Gen Marine Hosp Corp — Collingwood Gen and Marine Hosp (Ont.),Collingwood General and Marine Hospital Corporation (Ont.),Community — Medium,2025–2026,32.5,29.1,-3.4,-10.46,Decreased
+Scarborough Health Network — Centenary (Ont.),Scarborough Health Network (Ont.),Community — Large,2025–2026,40.8,37.4,-3.4,-8.33,Decreased
+William Osler Health System — Brampton Civic Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2025–2026,61.0,57.6,-3.4,-5.57,Decreased
+St. Joseph’s Healthcare Hamilton — Charlton Campus (Ont.),St. Joseph’s Healthcare Hamilton (Ont.),Teaching,2025–2026,33.6,30.1,-3.5,-10.42,Decreased
+Stevenson Memorial Hospital Corp. — Stevenson Memorial Hospital (Ont.),Stevenson Memorial Hospital Corporation (Ont.),Community — Medium,2025–2026,34.2,30.5,-3.7,-10.82,Decreased
+Lady Dunn Health Centre (Ont.),–,Community — Small,2025–2026,27.6,23.8,-3.8,-13.77,Decreased
+Manitoulin Health Centre — Little Current Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2025–2026,18.5,14.7,-3.8,-20.54,Decreased
+South Bruce Grey Health Centre — Walkerton Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2025–2026,16.5,12.6,-3.9,-23.64,Decreased
+Thunder Bay Regional Health Sciences Centre (Ont.),–,Teaching,2025–2026,35.8,31.8,-4.0,-11.17,Decreased
+Quinte Health — Prince Edward County Memorial (Ont.),Quinte Health (Ont.),Community — Small,2025–2026,25.5,21.4,-4.1,-16.08,Decreased
+Unity Health Toronto — St. Joseph’s Health Centre Toronto (Ont.),Unity Health Toronto (Ont.),Community — Large,2025–2026,54.5,50.3,-4.2,-7.71,Decreased
+Windsor Regional Hospital — Ouellette Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2025–2026,34.5,30.3,-4.2,-12.17,Decreased
+Royal Victoria Reg HCtr Corp — Royal Victoria Reg. Health Ctr (Ont.),Royal Victoria Regional Health Centre Corporation (Ont.),Community — Large,2025–2026,33.5,29.1,-4.4,-13.13,Decreased
+University Health Network — Toronto General Hospital (Ont.),University Health Network (Ont.),Teaching,2025–2026,36.4,31.5,-4.9,-13.46,Decreased
+Orillia Soldiers’ Mem. Hosp. Corp. — Orillia Soldiers’ Mem. Hosp. (Ont.),Orillia Soldiers’ Memorial Hospital Corporation (Ont.),Community — Medium,2025–2026,30.6,25.5,-5.1,-16.67,Decreased
+Rural Roads Health Services — Alexandra Hospital (Ont.),Rural Roads Health Services (Ont.),Community — Small,2025–2026,19.7,14.4,-5.3,-26.9,Decreased
+Hawkesbury and District General Hospital (Ont.),–,Community — Medium,2025–2026,34.5,29.0,-5.5,-15.94,Decreased
+West Nipissing General Hospital (Ont.),–,Community — Small,2025–2026,21.4,15.9,-5.5,-25.7,Decreased
+Kingston Health Sciences Centre — Kingston General Hospital (Ont.),Kingston Health Sciences Centre (Ont.),Teaching,2025–2026,37.7,31.8,-5.9,-15.65,Decreased
+St. Joseph’s General Hospital (Elliot Lake) (Ont.),–,Community — Medium,2025–2026,21.4,15.4,-6.0,-28.04,Decreased
+South Bruce Grey Health Centre — Kincardine Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2025–2026,20.9,14.8,-6.1,-29.19,Decreased
+Erie Shores HealthCare (Ont.),–,Community — Medium,2025–2026,28.1,21.9,-6.2,-22.06,Decreased
+London Health Sciences Centre — University Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2025–2026,35.4,29.1,-6.3,-17.8,Decreased
+Timmins and District Hospital Corp — Timmins and District Hosp (Ont.),Timmins and District Hospital Corporation (Ont.),Community — Medium,2025–2026,27.0,20.7,-6.3,-23.33,Decreased
+West Haldimand General Hospital (Ont.),–,Community — Small,2025–2026,25.3,19.0,-6.3,-24.9,Decreased
+Waterloo Regional Health Network — WRHN at Midtown (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2025–2026,42.5,35.8,-6.7,-15.76,Decreased
+Brockville Gen Hosp Corp — Brockville General Hospital (Ont.),Brockville General Hospital Corporation (Ont.),Community — Medium,2025–2026,37.2,30.2,-7.0,-18.82,Decreased
+Brightshores Health System — Owen Sound Hospital (Ont.),Brightshores Health System (Ont.),Community — Medium,2025–2026,45.5,38.4,-7.1,-15.6,Decreased
+Bluewater Health — Sarnia General Hospital Site (Ont.),Bluewater Health (Ont.),Community — Large,2025–2026,27.7,20.2,-7.5,-27.08,Decreased
+Smooth Rock Falls Hospital (Ont.),–,Community — Small,2025–2026,23.3,15.3,-8.0,-34.33,Decreased
+Peterborough Reg. HCtr Corp. — Peterborough Regional Health Centre (Ont.),Peterborough Regional Health Centre Corporation (Ont.),Community — Large,2025–2026,58.9,50.8,-8.1,-13.75,Decreased
+Niagara Health System — St. Catharines Site (Ont.),Niagara Health System (Ont.),Community — Large,2025–2026,57.6,49.3,-8.3,-14.41,Decreased
+University Health Network — Toronto Western Hospital (Ont.),University Health Network (Ont.),Teaching,2025–2026,40.4,31.2,-9.2,-22.77,Decreased
+Deep River and District Hospital (Ont.),–,Community — Small,2025–2026,26.4,16.9,-9.5,-35.98,Decreased
+Health Sciences North Corp — Health Sci North (Ont.),Health Sciences North Corporation (Ont.),Teaching,2025–2026,51.1,41.1,-10.0,-19.57,Decreased
+Waterloo Regional Health Network — WRHN at Queen’s Blvd. (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2025–2026,40.2,28.5,-11.7,-29.1,Decreased
+Groves Memorial Community Hospital (Ont.),–,Community — Small,2025–2026,33.2,21.3,-11.9,-35.84,Decreased
+Norfolk General Hospital (Ont.),–,Community — Medium,2025–2026,46.5,34.4,-12.1,-26.02,Decreased
+Lakeridge Health — Port Perry Site (Ont.),Lakeridge Health (Ont.),Community — Small,2025–2026,36.0,23.0,-13.0,-36.11,Decreased
+Rural Roads Health Services — Tillsonburg District Mem. Hosp. (Ont.),Rural Roads Health Services (Ont.),Community — Small,2025–2026,47.9,34.8,-13.1,-27.35,Decreased
+Ross Memorial Hospital (Ont.),–,Community — Medium,2025–2026,49.0,34.7,-14.3,-29.18,Decreased
+Sunnybrook Health Sci — Sunnybrook Campus (Ont.),Sunnybrook Health Sciences Centre (Ont.),Teaching,2025–2026,55.2,40.7,-14.5,-26.27,Decreased
+Brightshores Health System — Meaford Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2025–2026,48.2,33.5,-14.7,-30.5,Decreased
+Huron Perth Healthcare Alliance — St. Marys Memorial Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2025–2026,26.9,11.7,-15.2,-56.51,Decreased
+Haldimand War Memorial Hospital (Ont.),–,Community — Small,2025–2026,40.4,24.9,-15.5,-38.37,Decreased
+Halton Healthcare Services — Oakville-Trafalgar Memorial Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Large,2025–2026,52.1,36.3,-15.8,-30.33,Decreased
+Niagara Health System — Welland Hospital Site (Ont.),Niagara Health System (Ont.),Community — Medium,2025–2026,95.4,79.4,-16.0,-16.77,Decreased
+Brant Community Healthcare System — Brantford General Hospital (Ont.),Brant Community Healthcare System (Ont.),Community — Large,2025–2026,48.4,32.2,-16.2,-33.47,Decreased
+Brightshores Health System — Markdale Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2025–2026,54.2,35.7,-18.5,-34.13,Decreased
+Campbellford Memorial Hospital (Ont.),–,Community — Small,2025–2026,64.4,44.9,-19.5,-30.28,Decreased
+Trillium Health Partners — Credit Valley Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2025–2026,89.4,69.8,-19.6,-21.92,Decreased
+Brightshores Health System — Southampton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2025–2026,57.2,37.1,-20.1,-35.14,Decreased
+Lennox and Addington County General Hospital (Ont.),–,Community — Small,2025–2026,49.0,28.8,-20.2,-41.22,Decreased
+Muskoka Algonquin Healthcare — South Muskoka Memorial Hospital (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2025–2026,52.5,30.7,-21.8,-41.52,Decreased
+Lakeridge Health — Bowmanville Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2025–2026,50.3,28.1,-22.2,-44.14,Decreased
+Lakeridge Health — Oshawa Site (Ont.),Lakeridge Health (Ont.),Community — Large,2025–2026,70.3,47.4,-22.9,-32.57,Decreased
+Brightshores Health System — Wiarton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2025–2026,62.9,39.8,-23.1,-36.72,Decreased
+St. Francis Memorial Hospital (Ont.),–,Community — Small,2025–2026,52.1,27.9,-24.2,-46.45,Decreased
+Hamilton Health Sciences — West Lincoln Memorial Hospital (Ont.),Hamilton Health Sciences (Ont.),Community — Medium,2025–2026,75.7,50.7,-25.0,-33.03,Decreased
+Muskoka Algonquin Healthcare — Huntsville District Mem. Hosp. (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2025–2026,58.9,33.6,-25.3,-42.95,Decreased
+Lakeridge Health — Ajax and Pickering Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2025–2026,68.9,39.4,-29.5,-42.82,Decreased
+North Bay Regional Health Centre — North Bay Regional Health Centre (Ont.),North Bay Regional Health Centre (Ont.),Community — Large,2025–2026,65.2,28.1,-37.1,-56.9,Decreased
+Brightshores Health System — Wiarton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2024–2025,33.2,62.9,29.7,89.46,Increased
+St. Francis Memorial Hospital (Ont.),–,Community — Small,2024–2025,23.9,52.1,28.2,117.99,Increased
+Lennox and Addington County General Hospital (Ont.),–,Community — Small,2024–2025,27.8,49.0,21.2,76.26,Increased
+North Bay Regional Health Centre — North Bay Regional Health Centre (Ont.),North Bay Regional Health Centre (Ont.),Community — Large,2024–2025,45.6,65.2,19.6,42.98,Increased
+Muskoka Algonquin Healthcare — Huntsville District Mem. Hosp. (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2024–2025,39.5,58.9,19.4,49.11,Increased
+Brightshores Health System — Meaford Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2024–2025,29.5,48.2,18.7,63.39,Increased
+Niagara Health System — Welland Hospital Site (Ont.),Niagara Health System (Ont.),Community — Medium,2024–2025,76.8,95.4,18.6,24.22,Increased
+Smooth Rock Falls Hospital (Ont.),–,Community — Small,2024–2025,7.1,23.3,16.2,228.17,Increased
+Waterloo Regional Health Network — WRHN at Midtown (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2024–2025,28.4,42.5,14.1,49.65,Increased
+Brockville Gen Hosp Corp — Brockville General Hospital (Ont.),Brockville General Hospital Corporation (Ont.),Community — Medium,2024–2025,26.3,37.2,10.9,41.44,Increased
+West Haldimand General Hospital (Ont.),–,Community — Small,2024–2025,14.7,25.3,10.6,72.11,Increased
+Lakeridge Health — Port Perry Site (Ont.),Lakeridge Health (Ont.),Community — Small,2024–2025,25.7,36.0,10.3,40.08,Increased
+Trillium Health Partners — Mississauga Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2024–2025,47.5,57.4,9.9,20.84,Increased
+Bluewater Health — Sarnia General Hospital Site (Ont.),Bluewater Health (Ont.),Community — Large,2024–2025,18.7,27.7,9.0,48.13,Increased
+Lady Dunn Health Centre (Ont.),–,Community — Small,2024–2025,18.7,27.6,8.9,47.59,Increased
+Middlesex Hospital Alliance — Strathroy Middlesex General Hospital (Ont.),Middlesex Hospital Alliance (Ont.),Community — Medium,2024–2025,18.2,26.8,8.6,47.25,Increased
+Perth and Smiths Falls District Hospital — Smiths Falls Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2024–2025,26.6,35.2,8.6,32.33,Increased
+Campbellford Memorial Hospital (Ont.),–,Community — Small,2024–2025,56.7,64.4,7.7,13.58,Increased
+Muskoka Algonquin Healthcare — South Muskoka Memorial Hospital (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2024–2025,44.9,52.5,7.6,16.93,Increased
+Unity Health Toronto — St. Joseph’s Health Centre Toronto (Ont.),Unity Health Toronto (Ont.),Community — Large,2024–2025,46.9,54.5,7.6,16.2,Increased
+Brightshores Health System — Owen Sound Hospital (Ont.),Brightshores Health System (Ont.),Community — Medium,2024–2025,38.7,45.5,6.8,17.57,Increased
+Manitoulin Health Centre — Little Current Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2024–2025,11.9,18.5,6.6,55.46,Increased
+Chatham-Kent Health Alliance — Sydenham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Small,2024–2025,15.1,21.3,6.2,41.06,Increased
+Quinte Health — Trenton Memorial Hospital (Ont.),Quinte Health (Ont.),Community — Small,2024–2025,34.4,40.5,6.1,17.73,Increased
+Hanover and District Hospital (Ont.),–,Community — Small,2024–2025,16.7,22.0,5.3,31.74,Increased
+Haldimand War Memorial Hospital (Ont.),–,Community — Small,2024–2025,35.6,40.4,4.8,13.48,Increased
+Brightshores Health System — Southampton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2024–2025,52.6,57.2,4.6,8.75,Increased
+Hamilton Health Sciences — West Lincoln Memorial Hospital (Ont.),Hamilton Health Sciences (Ont.),Community — Medium,2024–2025,71.1,75.7,4.6,6.47,Increased
+MICs Group of Health Services — Anson General Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2024–2025,14.9,19.3,4.4,29.53,Increased
+Oak Valley Health — Markham Stouffville Hospital (Ont.),Oak Valley Health (Ont.),Community — Large,2024–2025,38.4,42.7,4.3,11.2,Increased
+Brant Community Healthcare System — Brantford General Hospital (Ont.),Brant Community Healthcare System (Ont.),Community — Large,2024–2025,44.2,48.4,4.2,9.5,Increased
+Carleton Place and District Memorial Hospital (Ont.),–,Community — Small,2024–2025,13.6,17.8,4.2,30.88,Increased
+Weeneebayko Area Health Authority — Moose Factory Site (Ont.),Weeneebayko Area Health Authority (Ont.),Community — Small,2024–2025,20.8,25.0,4.2,20.19,Increased
+Sault Area Hospital — Sault Area Hospital (Ont.),Sault Area Hospital (Ont.),Community — Large,2024–2025,47.7,51.8,4.1,8.6,Increased
+Thunder Bay Regional Health Sciences Centre (Ont.),–,Teaching,2024–2025,31.8,35.8,4.0,12.58,Increased
+Mattawa Hospital (Ont.),–,Community — Small,2024–2025,11.6,15.4,3.8,32.76,Increased
+Joseph Brant Hosp Corp — Joseph Brant Hospital (Ont.),Joseph Brant Hospital Corporation (Ont.),Community — Large,2024–2025,20.6,24.3,3.7,17.96,Increased
+Middlesex Hospital Alliance — Four Counties Health Services (Ont.),Middlesex Hospital Alliance (Ont.),Community — Small,2024–2025,26.7,30.3,3.6,13.48,Increased
+Quinte Health — Prince Edward County Memorial (Ont.),Quinte Health (Ont.),Community — Small,2024–2025,21.9,25.5,3.6,16.44,Increased
+Sunnybrook Health Sci — Sunnybrook Campus (Ont.),Sunnybrook Health Sciences Centre (Ont.),Teaching,2024–2025,51.6,55.2,3.6,6.98,Increased
+Perth and Smiths Falls District Hospital — Great War Memorial Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2024–2025,25.8,29.3,3.5,13.57,Increased
+Lakeridge Health — Bowmanville Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2024–2025,46.9,50.3,3.4,7.25,Increased
+Hamilton Health Sciences — Hamilton General Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2024–2025,35.6,38.7,3.1,8.71,Increased
+Lakeridge Health — Oshawa Site (Ont.),Lakeridge Health (Ont.),Community — Large,2024–2025,67.2,70.3,3.1,4.61,Increased
+Peterborough Reg. HCtr Corp. — Peterborough Regional Health Centre (Ont.),Peterborough Regional Health Centre Corporation (Ont.),Community — Large,2024–2025,55.8,58.9,3.1,5.56,Increased
+Health Sciences North Corp — Health Sci North (Ont.),Health Sciences North Corporation (Ont.),Teaching,2024–2025,48.1,51.1,3.0,6.24,Increased
+Royal Victoria Reg HCtr Corp — Royal Victoria Reg. Health Ctr (Ont.),Royal Victoria Regional Health Centre Corporation (Ont.),Community — Large,2024–2025,30.5,33.5,3.0,9.84,Increased
+West Nipissing General Hospital (Ont.),–,Community — Small,2024–2025,18.4,21.4,3.0,16.3,Increased
+North Shore Health Network — Blind River District Health Centre (Ont.),North Shore Health Network (Ont.),Community — Small,2024–2025,12.6,15.5,2.9,23.02,Increased
+Brightshores Health System — Markdale Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2024–2025,51.5,54.2,2.7,5.24,Increased
+MICs Group of Health Services — Bingham Memorial Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2024–2025,8.3,10.9,2.6,31.33,Increased
+Pembroke Regional Hospital Inc. (Ont.),–,Community — Medium,2024–2025,22.0,24.5,2.5,11.36,Increased
+Chatham-Kent Health Alliance — Chatham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Medium,2024–2025,21.6,24.0,2.4,11.11,Increased
+MICs Group of Health Services — Lady Minto Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2024–2025,12.1,14.5,2.4,19.83,Increased
+Trillium Health Partners — Credit Valley Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2024–2025,87.0,89.4,2.4,2.76,Increased
+Hôpital Notre-Dame Hospital (Ont.),–,Community — Small,2024–2025,17.9,20.2,2.3,12.85,Increased
+South Bruce Grey Health Centre — Walkerton Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2024–2025,14.2,16.5,2.3,16.2,Increased
+Quinte Health — Belleville General Hospital (Ont.),Quinte Health (Ont.),Community — Large,2024–2025,30.8,32.9,2.1,6.82,Increased
+South Bruce Grey Health Centre — Kincardine Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2024–2025,18.8,20.9,2.1,11.17,Increased
+The Ottawa Hospital — Civic Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2024–2025,43.0,45.0,2.0,4.65,Increased
+Hôpital Montfort Corp — Hôpital Montfort (Ont.),Hôpital Montfort Corporation (Ont.),Teaching,2024–2025,24.7,26.6,1.9,7.69,Increased
+Southlake Health Corp. — Southlake Health (Ont.),Southlake Health Corporation (Ont.),Community — Large,2024–2025,48.5,50.4,1.9,3.92,Increased
+Timmins and District Hospital Corp — Timmins and District Hosp (Ont.),Timmins and District Hospital Corporation (Ont.),Community — Medium,2024–2025,25.1,27.0,1.9,7.57,Increased
+Waterloo Regional Health Network — WRHN at Queen’s Blvd. (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2024–2025,38.3,40.2,1.9,4.96,Increased
+Renfrew Victoria Hospital (Ont.),–,Community — Medium,2024–2025,12.3,14.1,1.8,14.63,Increased
+Atikokan General Hospital (Ont.),–,Community — Small,2024–2025,7.0,8.7,1.7,24.29,Increased
+Manitoulin Health Centre — Mindemoya Hospital Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2024–2025,16.9,18.5,1.6,9.47,Increased
+William Osler Health System — Brampton Civic Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2024–2025,59.4,61.0,1.6,2.69,Increased
+Brightshores Health System — Lion’s Head Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2024–2025,13.4,14.9,1.5,11.19,Increased
+Norfolk General Hospital (Ont.),–,Community — Medium,2024–2025,45.1,46.5,1.4,3.1,Increased
+Services de santé de Chapleau Health Services (Ont.),–,Community — Small,2024–2025,23.2,24.6,1.4,6.03,Increased
+William Osler Health System — Etobicoke General Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2024–2025,48.9,50.3,1.4,2.86,Increased
+Windsor Regional Hospital — Ouellette Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2024–2025,33.1,34.5,1.4,4.23,Increased
+Ctr for Addiction MH Corp. — Centre for Addiction and Mental Health (Ont.),Centre for Addiction & Mental Health Corporation (Ont.),Teaching,2024–2025,24.0,25.3,1.3,5.42,Increased
+Sensenbrenner Hospital (Ont.),–,Community — Small,2024–2025,9.7,11.0,1.3,13.4,Increased
+West Parry Sound Health Centre (Ont.),–,Community — Medium,2024–2025,19.7,21.0,1.3,6.6,Increased
+Huron Perth Healthcare Alliance — Clinton Public Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2024–2025,9.5,10.6,1.1,11.58,Increased
+North York General Hospital — General Site (Ont.),North York General Hospital (Ont.),Community — Large,2024–2025,30.0,31.0,1.0,3.33,Increased
+Erie Shores HealthCare (Ont.),–,Community — Medium,2024–2025,27.2,28.1,0.9,3.31,Increased
+Wingham and District Hospital (Ont.),–,Community — Small,2024–2025,10.4,11.3,0.9,8.65,Increased
+Lake of the Woods Dist Hosp Corp — Lake of the Woods District Hosp. (Ont.),Lake of the Woods District Hospital Corporation (Ont.),Community — Medium,2024–2025,23.2,24.0,0.8,3.45,Increased
+Temiskaming Hospital (Ont.),–,Community — Medium,2024–2025,9.9,10.6,0.7,7.07,Increased
+Alexandra Marine and General Hospital (Ont.),–,Community — Small,2024–2025,17.2,17.8,0.6,3.49,Increased
+Children’s Hospital of Eastern Ontario (Ont.),–,Teaching,2024–2025,25.7,26.3,0.6,2.33,Increased
+Orillia Soldiers’ Mem. Hosp. Corp. — Orillia Soldiers’ Mem. Hosp. (Ont.),Orillia Soldiers’ Memorial Hospital Corporation (Ont.),Community — Medium,2024–2025,30.0,30.6,0.6,2.0,Increased
+Arnprior Regional Health — Arnprior & District Memorial Hospital (Ont.),Arnprior Regional Health (Ont.),Community — Small,2024–2025,14.1,14.6,0.5,3.55,Increased
+Riverside Health Care Facilities — La Verendrye Hospital (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2024–2025,9.7,10.2,0.5,5.15,Increased
+Kingston Health Sciences Centre — Kingston General Hospital (Ont.),Kingston Health Sciences Centre (Ont.),Teaching,2024–2025,37.3,37.7,0.4,1.07,Increased
+North Wellington Health Care Corp. — Palmerston and District Hosp. (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2024–2025,9.7,10.1,0.4,4.12,Increased
+Espanola General Hospital (Ont.),–,Community — Small,2024–2025,11.9,12.2,0.3,2.52,Increased
+St. Thomas Elgin General Hospital (Ont.),–,Community — Medium,2024–2025,7.8,7.8,0.0,0.0,Unchanged
+Guelph Gen Hosp Corp — Guelph General Hospital (Ont.),Guelph General Hospital Corporation (Ont.),Community — Large,2024–2025,28.3,28.2,-0.1,-0.35,Decreased
+Listowel Memorial Hospital (Ont.),–,Community — Small,2024–2025,10.1,10.0,-0.1,-0.99,Decreased
+Scarborough Health Network — Birchmount (Ont.),Scarborough Health Network (Ont.),Community — Large,2024–2025,34.5,34.4,-0.1,-0.29,Decreased
+Winchester District Memorial Hospital (Ont.),–,Community — Small,2024–2025,23.1,23.0,-0.1,-0.43,Decreased
+Riverside Health Care Facilities — Rainy River Health Centre (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2024–2025,26.0,25.8,-0.2,-0.77,Decreased
+St. Joseph’s Health Care London — St. Joseph’s Hospital (Ont.),St. Joseph’s Health Care London (Ont.),Teaching,2024–2025,8.8,8.6,-0.2,-2.27,Decreased
+Unity Health Toronto — St. Michael’s Hospital (Ont.),Unity Health Toronto (Ont.),Teaching,2024–2025,35.3,35.1,-0.2,-0.57,Decreased
+Stevenson Memorial Hospital Corp. — Stevenson Memorial Hospital (Ont.),Stevenson Memorial Hospital Corporation (Ont.),Community — Medium,2024–2025,34.5,34.2,-0.3,-0.87,Decreased
+Woodstock Hospital (Ont.),–,Community — Medium,2024–2025,10.4,10.1,-0.3,-2.88,Decreased
+Michael Garron Hosp Corp — Michael Garron Hospital (Ont.),Michael Garron Hospital Corporation (Ont.),Community — Large,2024–2025,29.2,28.8,-0.4,-1.37,Decreased
+South Bruce Grey Health Centre — Chesley Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2024–2025,8.0,7.6,-0.4,-5.0,Decreased
+Huron Perth Healthcare Alliance — Seaforth Community Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2024–2025,17.6,16.9,-0.7,-3.98,Decreased
+Blanche River Health — Kirkland and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2024–2025,13.3,12.4,-0.9,-6.77,Decreased
+Northumberland Hills Hospital (Ont.),–,Community — Medium,2024–2025,21.8,20.9,-0.9,-4.13,Decreased
+Cornwall Community Hospital — McConnell Avenue Site (Ont.),Cornwall Community Hospital (Ont.),Community — Medium,2024–2025,20.2,19.2,-1.0,-4.95,Decreased
+Red Lake Margaret Cochenour Memorial Hospital (Ont.),–,Community — Small,2024–2025,22.7,21.5,-1.2,-5.29,Decreased
+Groves Memorial Community Hospital (Ont.),–,Community — Small,2024–2025,34.5,33.2,-1.3,-3.77,Decreased
+Hamilton Health Sciences — McMaster University Medical Centre (Ont.),Hamilton Health Sciences (Ont.),Teaching,2024–2025,25.7,24.4,-1.3,-5.06,Decreased
+North of Superior Healthcare Group — Wilson Mem. Gen. Hosp. (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2024–2025,11.7,10.2,-1.5,-12.82,Decreased
+Sioux Lookout Meno Ya Win — Sioux Lookout Meno Ya Win Health Centre (Ont.),Sioux Lookout Meno Ya Win Health Centre (Ont.),Community — Medium,2024–2025,13.5,12.0,-1.5,-11.11,Decreased
+Humber River Health — Wilson Site (Ont.),Humber River Health (Ont.),Community — Large,2024–2025,21.5,19.7,-1.8,-8.37,Decreased
+Mackenzie Health — Cortellucci Vaughan Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2024–2025,45.6,43.8,-1.8,-3.95,Decreased
+Scarborough Health Network — General (Ont.),Scarborough Health Network (Ont.),Community — Large,2024–2025,36.1,34.3,-1.8,-4.99,Decreased
+South Huron Hospital (Ont.),–,Community — Small,2024–2025,20.2,18.4,-1.8,-8.91,Decreased
+The Ottawa Hospital — General Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2024–2025,44.0,42.2,-1.8,-4.09,Decreased
+Bluewater Health — Charlotte Eleanor Englehart Hospital (Ont.),Bluewater Health (Ont.),Community — Small,2024–2025,11.2,9.3,-1.9,-16.96,Decreased
+Huron Perth Healthcare Alliance — St. Marys Memorial Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2024–2025,29.1,26.9,-2.2,-7.56,Decreased
+Windsor Regional Hospital — Metropolitan Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2024–2025,35.7,33.5,-2.2,-6.16,Decreased
+Collingwood Gen Marine Hosp Corp — Collingwood Gen and Marine Hosp (Ont.),Collingwood General and Marine Hospital Corporation (Ont.),Community — Medium,2024–2025,34.8,32.5,-2.3,-6.61,Decreased
+North of Superior Healthcare Group — The McCausland Hospital (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2024–2025,10.0,7.7,-2.3,-23.0,Decreased
+Almonte General Hospital (Ont.),–,Community — Small,2024–2025,16.2,13.8,-2.4,-14.81,Decreased
+Scarborough Health Network — Centenary (Ont.),Scarborough Health Network (Ont.),Community — Large,2024–2025,43.2,40.8,-2.4,-5.56,Decreased
+University Health Network — Toronto Western Hospital (Ont.),University Health Network (Ont.),Teaching,2024–2025,42.8,40.4,-2.4,-5.61,Decreased
+Hospital for Sick Children (Ont.),–,Teaching,2024–2025,17.4,14.8,-2.6,-14.94,Decreased
+Niagara Health System — Greater Niagara General Site (Ont.),Niagara Health System (Ont.),Community — Medium,2024–2025,79.0,76.3,-2.7,-3.42,Decreased
+Dryden Regional Health Centre (Ont.),–,Community — Small,2024–2025,14.5,11.7,-2.8,-19.31,Decreased
+Oak Valley Health — Uxbridge Hospital (Ont.),Oak Valley Health (Ont.),Community — Small,2024–2025,24.2,21.2,-3.0,-12.4,Decreased
+Blanche River Health — Englehart and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2024–2025,12.8,9.7,-3.1,-24.22,Decreased
+Geraldton District Hospital (Ont.),–,Community — Small,2024–2025,26.4,23.3,-3.1,-11.74,Decreased
+Ross Memorial Hospital (Ont.),–,Community — Medium,2024–2025,52.1,49.0,-3.1,-5.95,Decreased
+North Wellington Health Care Corp. — Louise Marshall Hospital (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2024–2025,17.9,14.7,-3.2,-17.88,Decreased
+Huron Perth Healthcare Alliance — Stratford General Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Medium,2024–2025,17.8,14.4,-3.4,-19.1,Decreased
+Hôpital Glengarry Memorial Hospital (Ont.),–,Community — Small,2024–2025,20.1,16.4,-3.7,-18.41,Decreased
+Halton Healthcare Services — Milton District Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2024–2025,31.9,27.9,-4.0,-12.54,Decreased
+Hamilton Health Sciences — Juravinski Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2024–2025,47.2,43.2,-4.0,-8.47,Decreased
+Lakeridge Health — Ajax and Pickering Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2024–2025,73.1,68.9,-4.2,-5.75,Decreased
+London Health Sciences Centre — Victoria Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2024–2025,32.0,27.6,-4.4,-13.75,Decreased
+Kemptville District Hospital (Ont.),–,Community — Small,2024–2025,25.3,20.5,-4.8,-18.97,Decreased
+Nipigon District Memorial Hospital (Ont.),–,Community — Small,2024–2025,23.3,18.3,-5.0,-21.46,Decreased
+Quinte Health — North Hastings District Hospital (Ont.),Quinte Health (Ont.),Community — Small,2024–2025,32.5,27.5,-5.0,-15.38,Decreased
+Rural Roads Health Services — Alexandra Hospital (Ont.),Rural Roads Health Services (Ont.),Community — Small,2024–2025,24.7,19.7,-5.0,-20.24,Decreased
+St. Joseph’s General Hospital (Elliot Lake) (Ont.),–,Community — Medium,2024–2025,26.6,21.4,-5.2,-19.55,Decreased
+Haliburton Highlands Health Services — Haliburton (Ont.),Haliburton Highlands Health Services (Ont.),Community — Small,2024–2025,76.0,70.3,-5.7,-7.5,Decreased
+University Health Network — Toronto General Hospital (Ont.),University Health Network (Ont.),Teaching,2024–2025,42.1,36.4,-5.7,-13.54,Decreased
+Rural Roads Health Services — Tillsonburg District Mem. Hosp. (Ont.),Rural Roads Health Services (Ont.),Community — Small,2024–2025,53.8,47.9,-5.9,-10.97,Decreased
+Cambridge Mem Hosp Corp — Cambridge Memorial Hospital (Ont.),Cambridge Memorial Hospital Corporation (Ont.),Community — Medium,2024–2025,59.2,53.0,-6.2,-10.47,Decreased
+St. Joseph’s Healthcare Hamilton — Charlton Campus (Ont.),St. Joseph’s Healthcare Hamilton (Ont.),Teaching,2024–2025,39.8,33.6,-6.2,-15.58,Decreased
+Niagara Health System — St. Catharines Site (Ont.),Niagara Health System (Ont.),Community — Large,2024–2025,63.9,57.6,-6.3,-9.86,Decreased
+Queensway Carleton Hosp Corp — Queensway Carleton Hospital (Ont.),Queensway Carleton Hospital Corporation (Ont.),Community — Large,2024–2025,38.5,32.1,-6.4,-16.62,Decreased
+London Health Sciences Centre — University Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2024–2025,41.9,35.4,-6.5,-15.51,Decreased
+Sinai Health System — Mount Sinai Hospital (Ont.),Sinai Health System (Ont.),Teaching,2024–2025,49.1,41.1,-8.0,-16.29,Decreased
+Mackenzie Health — Mackenzie Richmond Hill Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2024–2025,53.6,45.5,-8.1,-15.11,Decreased
+Halton Healthcare Services — Georgetown Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2024–2025,38.7,29.8,-8.9,-23.0,Decreased
+Deep River and District Hospital (Ont.),–,Community — Small,2024–2025,35.8,26.4,-9.4,-26.26,Decreased
+Georgian Bay General Hospital — Midland Site (Ont.),Georgian Bay General Hospital (Ont.),Community — Medium,2024–2025,49.2,39.7,-9.5,-19.31,Decreased
+Hawkesbury and District General Hospital (Ont.),–,Community — Medium,2024–2025,45.6,34.5,-11.1,-24.34,Decreased
+Halton Healthcare Services — Oakville-Trafalgar Memorial Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Large,2024–2025,65.1,52.1,-13.0,-19.97,Decreased
+Haliburton Highlands Health Services — Haliburton (Ont.),Haliburton Highlands Health Services (Ont.),Community — Small,2023–2024,49.5,76.0,26.5,53.54,Increased
+North Bay Regional Health Centre — North Bay Regional Health Centre (Ont.),North Bay Regional Health Centre (Ont.),Community — Large,2023–2024,27.3,45.6,18.3,67.03,Increased
+Huron Perth Healthcare Alliance — St. Marys Memorial Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2023–2024,11.1,29.1,18.0,162.16,Increased
+Deep River and District Hospital (Ont.),–,Community — Small,2023–2024,19.6,35.8,16.2,82.65,Increased
+Stevenson Memorial Hospital Corp. — Stevenson Memorial Hospital (Ont.),Stevenson Memorial Hospital Corporation (Ont.),Community — Medium,2023–2024,20.7,34.5,13.8,66.67,Increased
+Muskoka Algonquin Healthcare — South Muskoka Memorial Hospital (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2023–2024,32.2,44.9,12.7,39.44,Increased
+Brockville Gen Hosp Corp — Brockville General Hospital (Ont.),Brockville General Hospital Corporation (Ont.),Community — Medium,2023–2024,15.8,26.3,10.5,66.46,Increased
+Cambridge Mem Hosp Corp — Cambridge Memorial Hospital (Ont.),Cambridge Memorial Hospital Corporation (Ont.),Community — Medium,2023–2024,49.8,59.2,9.4,18.88,Increased
+Timmins and District Hospital Corp — Timmins and District Hosp (Ont.),Timmins and District Hospital Corporation (Ont.),Community — Medium,2023–2024,15.7,25.1,9.4,59.87,Increased
+Trillium Health Partners — Credit Valley Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2023–2024,77.9,87.0,9.1,11.68,Increased
+Georgian Bay General Hospital — Midland Site (Ont.),Georgian Bay General Hospital (Ont.),Community — Medium,2023–2024,40.7,49.2,8.5,20.88,Increased
+Lady Dunn Health Centre (Ont.),–,Community — Small,2023–2024,11.9,18.7,6.8,57.14,Increased
+Brightshores Health System — Wiarton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2023–2024,26.5,33.2,6.7,25.28,Increased
+Sinai Health System — Mount Sinai Hospital (Ont.),Sinai Health System (Ont.),Teaching,2023–2024,42.6,49.1,6.5,15.26,Increased
+Sault Area Hospital — Sault Area Hospital (Ont.),Sault Area Hospital (Ont.),Community — Large,2023–2024,41.3,47.7,6.4,15.5,Increased
+Southlake Health Corp. — Southlake Health (Ont.),Southlake Health Corporation (Ont.),Community — Large,2023–2024,42.4,48.5,6.1,14.39,Increased
+Muskoka Algonquin Healthcare — Huntsville District Mem. Hosp. (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2023–2024,33.5,39.5,6.0,17.91,Increased
+Brightshores Health System — Markdale Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2023–2024,46.4,51.5,5.1,10.99,Increased
+Windsor Regional Hospital — Metropolitan Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2023–2024,30.6,35.7,5.1,16.67,Increased
+Niagara Health System — Greater Niagara General Site (Ont.),Niagara Health System (Ont.),Community — Medium,2023–2024,74.0,79.0,5.0,6.76,Increased
+Services de santé de Chapleau Health Services (Ont.),–,Community — Small,2023–2024,18.3,23.2,4.9,26.78,Increased
+Brightshores Health System — Southampton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2023–2024,48.0,52.6,4.6,9.58,Increased
+Huron Perth Healthcare Alliance — Stratford General Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Medium,2023–2024,13.8,17.8,4.0,28.99,Increased
+Alexandra Marine and General Hospital (Ont.),–,Community — Small,2023–2024,13.5,17.2,3.7,27.41,Increased
+Health Sciences North Corp — Health Sci North (Ont.),Health Sciences North Corporation (Ont.),Teaching,2023–2024,44.4,48.1,3.7,8.33,Increased
+Scarborough Health Network — Centenary (Ont.),Scarborough Health Network (Ont.),Community — Large,2023–2024,39.5,43.2,3.7,9.37,Increased
+London Health Sciences Centre — University Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2023–2024,38.3,41.9,3.6,9.4,Increased
+Lakeridge Health — Bowmanville Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2023–2024,43.6,46.9,3.3,7.57,Increased
+Blanche River Health — Kirkland and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2023–2024,10.4,13.3,2.9,27.88,Increased
+Bluewater Health — Charlotte Eleanor Englehart Hospital (Ont.),Bluewater Health (Ont.),Community — Small,2023–2024,8.3,11.2,2.9,34.94,Increased
+North Wellington Health Care Corp. — Louise Marshall Hospital (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2023–2024,15.2,17.9,2.7,17.76,Increased
+Orillia Soldiers’ Mem. Hosp. Corp. — Orillia Soldiers’ Mem. Hosp. (Ont.),Orillia Soldiers’ Memorial Hospital Corporation (Ont.),Community — Medium,2023–2024,27.3,30.0,2.7,9.89,Increased
+Quinte Health — Belleville General Hospital (Ont.),Quinte Health (Ont.),Community — Large,2023–2024,28.1,30.8,2.7,9.61,Increased
+Peterborough Reg. HCtr Corp. — Peterborough Regional Health Centre (Ont.),Peterborough Regional Health Centre Corporation (Ont.),Community — Large,2023–2024,53.2,55.8,2.6,4.89,Increased
+Perth and Smiths Falls District Hospital — Smiths Falls Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2023–2024,24.1,26.6,2.5,10.37,Increased
+Campbellford Memorial Hospital (Ont.),–,Community — Small,2023–2024,54.3,56.7,2.4,4.42,Increased
+Mattawa Hospital (Ont.),–,Community — Small,2023–2024,9.3,11.6,2.3,24.73,Increased
+Winchester District Memorial Hospital (Ont.),–,Community — Small,2023–2024,20.8,23.1,2.3,11.06,Increased
+Halton Healthcare Services — Oakville-Trafalgar Memorial Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Large,2023–2024,63.1,65.1,2.0,3.17,Increased
+Niagara Health System — St. Catharines Site (Ont.),Niagara Health System (Ont.),Community — Large,2023–2024,61.9,63.9,2.0,3.23,Increased
+Waterloo Regional Health Network — WRHN at Midtown (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2023–2024,26.5,28.4,1.9,7.17,Increased
+Lake of the Woods Dist Hosp Corp — Lake of the Woods District Hosp. (Ont.),Lake of the Woods District Hospital Corporation (Ont.),Community — Medium,2023–2024,21.4,23.2,1.8,8.41,Increased
+Huron Perth Healthcare Alliance — Clinton Public Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2023–2024,7.9,9.5,1.6,20.25,Increased
+Nipigon District Memorial Hospital (Ont.),–,Community — Small,2023–2024,21.7,23.3,1.6,7.37,Increased
+North Shore Health Network — Blind River District Health Centre (Ont.),North Shore Health Network (Ont.),Community — Small,2023–2024,11.0,12.6,1.6,14.55,Increased
+Geraldton District Hospital (Ont.),–,Community — Small,2023–2024,24.9,26.4,1.5,6.02,Increased
+Oak Valley Health — Uxbridge Hospital (Ont.),Oak Valley Health (Ont.),Community — Small,2023–2024,22.7,24.2,1.5,6.61,Increased
+Hamilton Health Sciences — Hamilton General Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2023–2024,34.2,35.6,1.4,4.09,Increased
+The Ottawa Hospital — General Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2023–2024,42.6,44.0,1.4,3.29,Increased
+West Parry Sound Health Centre (Ont.),–,Community — Medium,2023–2024,18.3,19.7,1.4,7.65,Increased
+Lakeridge Health — Ajax and Pickering Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2023–2024,72.0,73.1,1.1,1.53,Increased
+University Health Network — Toronto General Hospital (Ont.),University Health Network (Ont.),Teaching,2023–2024,41.0,42.1,1.1,2.68,Increased
+William Osler Health System — Brampton Civic Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2023–2024,58.3,59.4,1.1,1.89,Increased
+Blanche River Health — Englehart and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2023–2024,11.9,12.8,0.9,7.56,Increased
+The Ottawa Hospital — Civic Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2023–2024,42.1,43.0,0.9,2.14,Increased
+Unity Health Toronto — St. Michael’s Hospital (Ont.),Unity Health Toronto (Ont.),Teaching,2023–2024,34.4,35.3,0.9,2.62,Increased
+Huron Perth Healthcare Alliance — Seaforth Community Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2023–2024,16.8,17.6,0.8,4.76,Increased
+Mackenzie Health — Mackenzie Richmond Hill Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2023–2024,52.8,53.6,0.8,1.52,Increased
+Manitoulin Health Centre — Mindemoya Hospital Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2023–2024,16.1,16.9,0.8,4.97,Increased
+Erie Shores HealthCare (Ont.),–,Community — Medium,2023–2024,26.5,27.2,0.7,2.64,Increased
+MICs Group of Health Services — Anson General Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2023–2024,14.2,14.9,0.7,4.93,Increased
+Renfrew Victoria Hospital (Ont.),–,Community — Medium,2023–2024,11.6,12.3,0.7,6.03,Increased
+St. Joseph’s Health Care London — St. Joseph’s Hospital (Ont.),St. Joseph’s Health Care London (Ont.),Teaching,2023–2024,8.1,8.8,0.7,8.64,Increased
+Red Lake Margaret Cochenour Memorial Hospital (Ont.),–,Community — Small,2023–2024,22.1,22.7,0.6,2.71,Increased
+Listowel Memorial Hospital (Ont.),–,Community — Small,2023–2024,9.6,10.1,0.5,5.21,Increased
+South Bruce Grey Health Centre — Walkerton Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2023–2024,13.7,14.2,0.5,3.65,Increased
+Espanola General Hospital (Ont.),–,Community — Small,2023–2024,11.6,11.9,0.3,2.59,Increased
+North Wellington Health Care Corp. — Palmerston and District Hosp. (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2023–2024,9.4,9.7,0.3,3.19,Increased
+Wingham and District Hospital (Ont.),–,Community — Small,2023–2024,10.1,10.4,0.3,2.97,Increased
+Dryden Regional Health Centre (Ont.),–,Community — Small,2023–2024,14.3,14.5,0.2,1.4,Increased
+Lakeridge Health — Oshawa Site (Ont.),Lakeridge Health (Ont.),Community — Large,2023–2024,67.2,67.2,0.0,0.0,Unchanged
+Sensenbrenner Hospital (Ont.),–,Community — Small,2023–2024,9.7,9.7,0.0,0.0,Unchanged
+Almonte General Hospital (Ont.),–,Community — Small,2023–2024,16.3,16.2,-0.1,-0.61,Decreased
+MICs Group of Health Services — Lady Minto Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2023–2024,12.2,12.1,-0.1,-0.82,Decreased
+Norfolk General Hospital (Ont.),–,Community — Medium,2023–2024,45.4,45.1,-0.3,-0.66,Decreased
+St. Thomas Elgin General Hospital (Ont.),–,Community — Medium,2023–2024,8.1,7.8,-0.3,-3.7,Decreased
+Children’s Hospital of Eastern Ontario (Ont.),–,Teaching,2023–2024,26.1,25.7,-0.4,-1.53,Decreased
+Weeneebayko Area Health Authority — Moose Factory Site (Ont.),Weeneebayko Area Health Authority (Ont.),Community — Small,2023–2024,21.2,20.8,-0.4,-1.89,Decreased
+Collingwood Gen Marine Hosp Corp — Collingwood Gen and Marine Hosp (Ont.),Collingwood General and Marine Hospital Corporation (Ont.),Community — Medium,2023–2024,35.3,34.8,-0.5,-1.42,Decreased
+North of Superior Healthcare Group — The McCausland Hospital (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2023–2024,10.5,10.0,-0.5,-4.76,Decreased
+Smooth Rock Falls Hospital (Ont.),–,Community — Small,2023–2024,7.6,7.1,-0.5,-6.58,Decreased
+Mackenzie Health — Cortellucci Vaughan Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2023–2024,46.2,45.6,-0.6,-1.3,Decreased
+Ross Memorial Hospital (Ont.),–,Community — Medium,2023–2024,52.7,52.1,-0.6,-1.14,Decreased
+Hospital for Sick Children (Ont.),–,Teaching,2023–2024,18.1,17.4,-0.7,-3.87,Decreased
+Middlesex Hospital Alliance — Strathroy Middlesex General Hospital (Ont.),Middlesex Hospital Alliance (Ont.),Community — Medium,2023–2024,18.9,18.2,-0.7,-3.7,Decreased
+Perth and Smiths Falls District Hospital — Great War Memorial Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2023–2024,26.5,25.8,-0.7,-2.64,Decreased
+South Huron Hospital (Ont.),–,Community — Small,2023–2024,20.9,20.2,-0.7,-3.35,Decreased
+Halton Healthcare Services — Milton District Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2023–2024,32.7,31.9,-0.8,-2.45,Decreased
+Riverside Health Care Facilities — La Verendrye Hospital (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2023–2024,10.5,9.7,-0.8,-7.62,Decreased
+Hôpital Notre-Dame Hospital (Ont.),–,Community — Small,2023–2024,18.8,17.9,-0.9,-4.79,Decreased
+Manitoulin Health Centre — Little Current Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2023–2024,12.8,11.9,-0.9,-7.03,Decreased
+Temiskaming Hospital (Ont.),–,Community — Medium,2023–2024,10.8,9.9,-0.9,-8.33,Decreased
+Woodstock Hospital (Ont.),–,Community — Medium,2023–2024,11.3,10.4,-0.9,-7.96,Decreased
+Brightshores Health System — Meaford Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2023–2024,30.5,29.5,-1.0,-3.28,Decreased
+Hôpital Montfort Corp — Hôpital Montfort (Ont.),Hôpital Montfort Corporation (Ont.),Teaching,2023–2024,25.7,24.7,-1.0,-3.89,Decreased
+Middlesex Hospital Alliance — Four Counties Health Services (Ont.),Middlesex Hospital Alliance (Ont.),Community — Small,2023–2024,27.7,26.7,-1.0,-3.61,Decreased
+Brant Community Healthcare System — Brantford General Hospital (Ont.),Brant Community Healthcare System (Ont.),Community — Large,2023–2024,45.3,44.2,-1.1,-2.43,Decreased
+Rural Roads Health Services — Alexandra Hospital (Ont.),Rural Roads Health Services (Ont.),Community — Small,2023–2024,25.8,24.7,-1.1,-4.26,Decreased
+South Bruce Grey Health Centre — Chesley Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2023–2024,9.1,8.0,-1.1,-12.09,Decreased
+Carleton Place and District Memorial Hospital (Ont.),–,Community — Small,2023–2024,14.8,13.6,-1.2,-8.11,Decreased
+Oak Valley Health — Markham Stouffville Hospital (Ont.),Oak Valley Health (Ont.),Community — Large,2023–2024,39.6,38.4,-1.2,-3.03,Decreased
+Scarborough Health Network — Birchmount (Ont.),Scarborough Health Network (Ont.),Community — Large,2023–2024,35.7,34.5,-1.2,-3.36,Decreased
+South Bruce Grey Health Centre — Durham Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2023–2024,8.5,7.3,-1.2,-14.12,Decreased
+Scarborough Health Network — General (Ont.),Scarborough Health Network (Ont.),Community — Large,2023–2024,37.5,36.1,-1.4,-3.73,Decreased
+Michael Garron Hosp Corp — Michael Garron Hospital (Ont.),Michael Garron Hospital Corporation (Ont.),Community — Large,2023–2024,30.8,29.2,-1.6,-5.19,Decreased
+Hamilton Health Sciences — Juravinski Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2023–2024,48.9,47.2,-1.7,-3.48,Decreased
+Sunnybrook Health Sci — Sunnybrook Campus (Ont.),Sunnybrook Health Sciences Centre (Ont.),Teaching,2023–2024,53.4,51.6,-1.8,-3.37,Decreased
+Atikokan General Hospital (Ont.),–,Community — Small,2023–2024,8.9,7.0,-1.9,-21.35,Decreased
+Trillium Health Partners — Mississauga Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2023–2024,49.4,47.5,-1.9,-3.85,Decreased
+West Nipissing General Hospital (Ont.),–,Community — Small,2023–2024,20.6,18.4,-2.2,-10.68,Decreased
+North of Superior Healthcare Group — Wilson Mem. Gen. Hosp. (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2023–2024,14.0,11.7,-2.3,-16.43,Decreased
+Groves Memorial Community Hospital (Ont.),–,Community — Small,2023–2024,37.1,34.5,-2.6,-7.01,Decreased
+Sioux Lookout Meno Ya Win — Sioux Lookout Meno Ya Win Health Centre (Ont.),Sioux Lookout Meno Ya Win Health Centre (Ont.),Community — Medium,2023–2024,16.3,13.5,-2.8,-17.18,Decreased
+St. Joseph’s Healthcare Hamilton — Charlton Campus (Ont.),St. Joseph’s Healthcare Hamilton (Ont.),Teaching,2023–2024,42.7,39.8,-2.9,-6.79,Decreased
+Brightshores Health System — Lion’s Head Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2023–2024,16.4,13.4,-3.0,-18.29,Decreased
+Chatham-Kent Health Alliance — Sydenham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Small,2023–2024,18.1,15.1,-3.0,-16.57,Decreased
+London Health Sciences Centre — Victoria Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2023–2024,35.4,32.0,-3.4,-9.6,Decreased
+MICs Group of Health Services — Bingham Memorial Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2023–2024,11.7,8.3,-3.4,-29.06,Decreased
+Kingston Health Sciences Centre — Kingston General Hospital (Ont.),Kingston Health Sciences Centre (Ont.),Teaching,2023–2024,40.9,37.3,-3.6,-8.8,Decreased
+Hanover and District Hospital (Ont.),–,Community — Small,2023–2024,20.6,16.7,-3.9,-18.93,Decreased
+South Bruce Grey Health Centre — Kincardine Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2023–2024,22.7,18.8,-3.9,-17.18,Decreased
+Joseph Brant Hosp Corp — Joseph Brant Hospital (Ont.),Joseph Brant Hospital Corporation (Ont.),Community — Large,2023–2024,24.6,20.6,-4.0,-16.26,Decreased
+Humber River Health — Wilson Site (Ont.),Humber River Health (Ont.),Community — Large,2023–2024,25.6,21.5,-4.1,-16.02,Decreased
+Hôpital Glengarry Memorial Hospital (Ont.),–,Community — Small,2023–2024,24.2,20.1,-4.1,-16.94,Decreased
+Chatham-Kent Health Alliance — Chatham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Medium,2023–2024,26.0,21.6,-4.4,-16.92,Decreased
+University Health Network — Toronto Western Hospital (Ont.),University Health Network (Ont.),Teaching,2023–2024,47.3,42.8,-4.5,-9.51,Decreased
+Waterloo Regional Health Network — WRHN at Queen’s Blvd. (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2023–2024,42.9,38.3,-4.6,-10.72,Decreased
+Halton Healthcare Services — Georgetown Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2023–2024,43.4,38.7,-4.7,-10.83,Decreased
+Hamilton Health Sciences — McMaster University Medical Centre (Ont.),Hamilton Health Sciences (Ont.),Teaching,2023–2024,30.4,25.7,-4.7,-15.46,Decreased
+Riverside Health Care Facilities — Rainy River Health Centre (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2023–2024,30.9,26.0,-4.9,-15.86,Decreased
+Pembroke Regional Hospital Inc. (Ont.),–,Community — Medium,2023–2024,27.1,22.0,-5.1,-18.82,Decreased
+Lennox and Addington County General Hospital (Ont.),–,Community — Small,2023–2024,33.0,27.8,-5.2,-15.76,Decreased
+Quinte Health — Prince Edward County Memorial (Ont.),Quinte Health (Ont.),Community — Small,2023–2024,27.1,21.9,-5.2,-19.19,Decreased
+Arnprior Regional Health — Arnprior & District Memorial Hospital (Ont.),Arnprior Regional Health (Ont.),Community — Small,2023–2024,19.4,14.1,-5.3,-27.32,Decreased
+Royal Victoria Reg HCtr Corp — Royal Victoria Reg. Health Ctr (Ont.),Royal Victoria Regional Health Centre Corporation (Ont.),Community — Large,2023–2024,35.9,30.5,-5.4,-15.04,Decreased
+Bluewater Health — Sarnia General Hospital Site (Ont.),Bluewater Health (Ont.),Community — Large,2023–2024,24.9,18.7,-6.2,-24.9,Decreased
+William Osler Health System — Etobicoke General Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2023–2024,55.5,48.9,-6.6,-11.89,Decreased
+Kemptville District Hospital (Ont.),–,Community — Small,2023–2024,32.0,25.3,-6.7,-20.94,Decreased
+Queensway Carleton Hosp Corp — Queensway Carleton Hospital (Ont.),Queensway Carleton Hospital Corporation (Ont.),Community — Large,2023–2024,45.3,38.5,-6.8,-15.01,Decreased
+Windsor Regional Hospital — Ouellette Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2023–2024,40.5,33.1,-7.4,-18.27,Decreased
+Niagara Health System — Welland Hospital Site (Ont.),Niagara Health System (Ont.),Community — Medium,2023–2024,84.8,76.8,-8.0,-9.43,Decreased
+Quinte Health — North Hastings District Hospital (Ont.),Quinte Health (Ont.),Community — Small,2023–2024,41.0,32.5,-8.5,-20.73,Decreased
+Brightshores Health System — Owen Sound Hospital (Ont.),Brightshores Health System (Ont.),Community — Medium,2023–2024,47.7,38.7,-9.0,-18.87,Decreased
+North York General Hospital — General Site (Ont.),North York General Hospital (Ont.),Community — Large,2023–2024,39.0,30.0,-9.0,-23.08,Decreased
+Haldimand War Memorial Hospital (Ont.),–,Community — Small,2023–2024,44.8,35.6,-9.2,-20.54,Decreased
+Lakeridge Health — Port Perry Site (Ont.),Lakeridge Health (Ont.),Community — Small,2023–2024,37.0,25.7,-11.3,-30.54,Decreased
+Thunder Bay Regional Health Sciences Centre (Ont.),–,Teaching,2023–2024,43.1,31.8,-11.3,-26.22,Decreased
+Guelph Gen Hosp Corp — Guelph General Hospital (Ont.),Guelph General Hospital Corporation (Ont.),Community — Large,2023–2024,39.9,28.3,-11.6,-29.07,Decreased
+West Haldimand General Hospital (Ont.),–,Community — Small,2023–2024,27.4,14.7,-12.7,-46.35,Decreased
+Cornwall Community Hospital — McConnell Avenue Site (Ont.),Cornwall Community Hospital (Ont.),Community — Medium,2023–2024,34.2,20.2,-14.0,-40.94,Decreased
+St. Joseph’s General Hospital (Elliot Lake) (Ont.),–,Community — Medium,2023–2024,43.4,26.6,-16.8,-38.71,Decreased
+Quinte Health — Trenton Memorial Hospital (Ont.),Quinte Health (Ont.),Community — Small,2023–2024,51.9,34.4,-17.5,-33.72,Decreased
+Rural Roads Health Services — Tillsonburg District Mem. Hosp. (Ont.),Rural Roads Health Services (Ont.),Community — Small,2023–2024,72.2,53.8,-18.4,-25.48,Decreased
+Unity Health Toronto — St. Joseph’s Health Centre Toronto (Ont.),Unity Health Toronto (Ont.),Community — Large,2023–2024,66.5,46.9,-19.6,-29.47,Decreased
+Northumberland Hills Hospital (Ont.),–,Community — Medium,2023–2024,43.3,21.8,-21.5,-49.65,Decreased
+Hamilton Health Sciences — West Lincoln Memorial Hospital (Ont.),Hamilton Health Sciences (Ont.),Community — Medium,2023–2024,97.6,71.1,-26.5,-27.15,Decreased
+Ctr for Addiction MH Corp. — Centre for Addiction and Mental Health (Ont.),Centre for Addiction & Mental Health Corporation (Ont.),Teaching,2023–2024,51.5,24.0,-27.5,-53.4,Decreased
+Hawkesbury and District General Hospital (Ont.),–,Community — Medium,2023–2024,78.8,45.6,-33.2,-42.13,Decreased
+St. Francis Memorial Hospital (Ont.),–,Community — Small,2023–2024,63.5,23.9,-39.6,-62.36,Decreased
+Trillium Health Partners — Credit Valley Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2022–2023,41.3,77.9,36.6,88.62,Increased
+Campbellford Memorial Hospital (Ont.),–,Community — Small,2022–2023,23.8,54.3,30.5,128.15,Increased
+Rural Roads Health Services — Tillsonburg District Mem. Hosp. (Ont.),Rural Roads Health Services (Ont.),Community — Small,2022–2023,45.2,72.2,27.0,59.73,Increased
+Brightshores Health System — Owen Sound Hospital (Ont.),Brightshores Health System (Ont.),Community — Medium,2022–2023,21.8,47.7,25.9,118.81,Increased
+Norfolk General Hospital (Ont.),–,Community — Medium,2022–2023,19.8,45.4,25.6,129.29,Increased
+Haliburton Highlands Health Services — Haliburton (Ont.),Haliburton Highlands Health Services (Ont.),Community — Small,2022–2023,25.4,49.5,24.1,94.88,Increased
+Hamilton Health Sciences — West Lincoln Memorial Hospital (Ont.),Hamilton Health Sciences (Ont.),Community — Medium,2022–2023,73.6,97.6,24.0,32.61,Increased
+Brightshores Health System — Markdale Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2022–2023,24.3,46.4,22.1,90.95,Increased
+Ross Memorial Hospital (Ont.),–,Community — Medium,2022–2023,30.8,52.7,21.9,71.1,Increased
+Brightshores Health System — Southampton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2022–2023,26.6,48.0,21.4,80.45,Increased
+Cambridge Mem Hosp Corp — Cambridge Memorial Hospital (Ont.),Cambridge Memorial Hospital Corporation (Ont.),Community — Medium,2022–2023,29.5,49.8,20.3,68.81,Increased
+Trillium Health Partners — Mississauga Hospital (Ont.),Trillium Health Partners (Ont.),Community — Large,2022–2023,29.2,49.4,20.2,69.18,Increased
+Niagara Health System — Welland Hospital Site (Ont.),Niagara Health System (Ont.),Community — Medium,2022–2023,64.9,84.8,19.9,30.66,Increased
+Lakeridge Health — Ajax and Pickering Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2022–2023,52.7,72.0,19.3,36.62,Increased
+Niagara Health System — Greater Niagara General Site (Ont.),Niagara Health System (Ont.),Community — Medium,2022–2023,55.5,74.0,18.5,33.33,Increased
+Sinai Health System — Mount Sinai Hospital (Ont.),Sinai Health System (Ont.),Teaching,2022–2023,25.1,42.6,17.5,69.72,Increased
+Peterborough Reg. HCtr Corp. — Peterborough Regional Health Centre (Ont.),Peterborough Regional Health Centre Corporation (Ont.),Community — Large,2022–2023,36.0,53.2,17.2,47.78,Increased
+St. Francis Memorial Hospital (Ont.),–,Community — Small,2022–2023,46.3,63.5,17.2,37.15,Increased
+Guelph Gen Hosp Corp — Guelph General Hospital (Ont.),Guelph General Hospital Corporation (Ont.),Community — Large,2022–2023,23.8,39.9,16.1,67.65,Increased
+Haldimand War Memorial Hospital (Ont.),–,Community — Small,2022–2023,28.8,44.8,16.0,55.56,Increased
+University Health Network — Toronto Western Hospital (Ont.),University Health Network (Ont.),Teaching,2022–2023,31.3,47.3,16.0,51.12,Increased
+Groves Memorial Community Hospital (Ont.),–,Community — Small,2022–2023,21.5,37.1,15.6,72.56,Increased
+Northumberland Hills Hospital (Ont.),–,Community — Medium,2022–2023,27.7,43.3,15.6,56.32,Increased
+Windsor Regional Hospital — Ouellette Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2022–2023,25.6,40.5,14.9,58.2,Increased
+William Osler Health System — Brampton Civic Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2022–2023,43.6,58.3,14.7,33.72,Increased
+University Health Network — Toronto General Hospital (Ont.),University Health Network (Ont.),Teaching,2022–2023,26.9,41.0,14.1,52.42,Increased
+Sault Area Hospital — Sault Area Hospital (Ont.),Sault Area Hospital (Ont.),Community — Large,2022–2023,27.3,41.3,14.0,51.28,Increased
+Lakeridge Health — Bowmanville Site (Ont.),Lakeridge Health (Ont.),Community — Medium,2022–2023,30.1,43.6,13.5,44.85,Increased
+Unity Health Toronto — St. Joseph’s Health Centre Toronto (Ont.),Unity Health Toronto (Ont.),Community — Large,2022–2023,53.2,66.5,13.3,25.0,Increased
+Brant Community Healthcare System — Brantford General Hospital (Ont.),Brant Community Healthcare System (Ont.),Community — Large,2022–2023,32.1,45.3,13.2,41.12,Increased
+Halton Healthcare Services — Oakville-Trafalgar Memorial Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Large,2022–2023,50.1,63.1,13.0,25.95,Increased
+Waterloo Regional Health Network — WRHN at Queen’s Blvd. (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2022–2023,30.1,42.9,12.8,42.52,Increased
+Southlake Health Corp. — Southlake Health (Ont.),Southlake Health Corporation (Ont.),Community — Large,2022–2023,30.4,42.4,12.0,39.47,Increased
+William Osler Health System — Etobicoke General Hospital (Ont.),William Osler Health System (Ont.),Community — Large,2022–2023,43.6,55.5,11.9,27.29,Increased
+Queensway Carleton Hosp Corp — Queensway Carleton Hospital (Ont.),Queensway Carleton Hospital Corporation (Ont.),Community — Large,2022–2023,33.6,45.3,11.7,34.82,Increased
+Hawkesbury and District General Hospital (Ont.),–,Community — Medium,2022–2023,67.2,78.8,11.6,17.26,Increased
+Kemptville District Hospital (Ont.),–,Community — Small,2022–2023,20.4,32.0,11.6,56.86,Increased
+Health Sciences North Corp — Health Sci North (Ont.),Health Sciences North Corporation (Ont.),Teaching,2022–2023,33.2,44.4,11.2,33.73,Increased
+Middlesex Hospital Alliance — Four Counties Health Services (Ont.),Middlesex Hospital Alliance (Ont.),Community — Small,2022–2023,16.6,27.7,11.1,66.87,Increased
+Hamilton Health Sciences — McMaster University Medical Centre (Ont.),Hamilton Health Sciences (Ont.),Teaching,2022–2023,19.5,30.4,10.9,55.9,Increased
+Lakeridge Health — Oshawa Site (Ont.),Lakeridge Health (Ont.),Community — Large,2022–2023,56.3,67.2,10.9,19.36,Increased
+Collingwood Gen Marine Hosp Corp — Collingwood Gen and Marine Hosp (Ont.),Collingwood General and Marine Hospital Corporation (Ont.),Community — Medium,2022–2023,24.5,35.3,10.8,44.08,Increased
+Sunnybrook Health Sci — Sunnybrook Campus (Ont.),Sunnybrook Health Sciences Centre (Ont.),Teaching,2022–2023,42.6,53.4,10.8,25.35,Increased
+St. Joseph’s Healthcare Hamilton — Charlton Campus (Ont.),St. Joseph’s Healthcare Hamilton (Ont.),Teaching,2022–2023,32.3,42.7,10.4,32.2,Increased
+Halton Healthcare Services — Georgetown Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2022–2023,33.1,43.4,10.3,31.12,Increased
+Oak Valley Health — Markham Stouffville Hospital (Ont.),Oak Valley Health (Ont.),Community — Large,2022–2023,29.3,39.6,10.3,35.15,Increased
+Georgian Bay General Hospital — Midland Site (Ont.),Georgian Bay General Hospital (Ont.),Community — Medium,2022–2023,30.7,40.7,10.0,32.57,Increased
+Perth and Smiths Falls District Hospital — Smiths Falls Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2022–2023,14.1,24.1,10.0,70.92,Increased
+Erie Shores HealthCare (Ont.),–,Community — Medium,2022–2023,16.7,26.5,9.8,58.68,Increased
+Kingston Health Sciences Centre — Kingston General Hospital (Ont.),Kingston Health Sciences Centre (Ont.),Teaching,2022–2023,31.3,40.9,9.6,30.67,Increased
+Lakeridge Health — Port Perry Site (Ont.),Lakeridge Health (Ont.),Community — Small,2022–2023,27.4,37.0,9.6,35.04,Increased
+Scarborough Health Network — Birchmount (Ont.),Scarborough Health Network (Ont.),Community — Large,2022–2023,26.3,35.7,9.4,35.74,Increased
+Hanover and District Hospital (Ont.),–,Community — Small,2022–2023,12.0,20.6,8.6,71.67,Increased
+Mackenzie Health — Cortellucci Vaughan Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2022–2023,37.6,46.2,8.6,22.87,Increased
+Perth and Smiths Falls District Hospital — Great War Memorial Site (Ont.),Perth and Smiths Falls District Hospital (Ont.),Community — Medium,2022–2023,17.9,26.5,8.6,48.04,Increased
+London Health Sciences Centre — Victoria Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2022–2023,26.9,35.4,8.5,31.6,Increased
+Brightshores Health System — Meaford Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2022–2023,22.1,30.5,8.4,38.01,Increased
+London Health Sciences Centre — University Hospital (Ont.),London Health Sciences Centre (Ont.),Teaching,2022–2023,30.2,38.3,8.1,26.82,Increased
+Mackenzie Health — Mackenzie Richmond Hill Hospital (Ont.),Mackenzie Health (Ont.),Community — Large,2022–2023,44.7,52.8,8.1,18.12,Increased
+Bluewater Health — Sarnia General Hospital Site (Ont.),Bluewater Health (Ont.),Community — Large,2022–2023,16.9,24.9,8.0,47.34,Increased
+Muskoka Algonquin Healthcare — South Muskoka Memorial Hospital (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2022–2023,24.5,32.2,7.7,31.43,Increased
+North of Superior Healthcare Group — Wilson Mem. Gen. Hosp. (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2022–2023,6.4,14.0,7.6,118.75,Increased
+West Haldimand General Hospital (Ont.),–,Community — Small,2022–2023,19.8,27.4,7.6,38.38,Increased
+Riverside Health Care Facilities — Rainy River Health Centre (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2022–2023,23.8,30.9,7.1,29.83,Increased
+Royal Victoria Reg HCtr Corp — Royal Victoria Reg. Health Ctr (Ont.),Royal Victoria Regional Health Centre Corporation (Ont.),Community — Large,2022–2023,28.8,35.9,7.1,24.65,Increased
+Scarborough Health Network — General (Ont.),Scarborough Health Network (Ont.),Community — Large,2022–2023,30.7,37.5,6.8,22.15,Increased
+Thunder Bay Regional Health Sciences Centre (Ont.),–,Teaching,2022–2023,36.3,43.1,6.8,18.73,Increased
+Middlesex Hospital Alliance — Strathroy Middlesex General Hospital (Ont.),Middlesex Hospital Alliance (Ont.),Community — Medium,2022–2023,12.2,18.9,6.7,54.92,Increased
+Hamilton Health Sciences — Juravinski Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2022–2023,42.3,48.9,6.6,15.6,Increased
+The Ottawa Hospital — General Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2022–2023,36.3,42.6,6.3,17.36,Increased
+Windsor Regional Hospital — Metropolitan Campus (Ont.),Windsor Regional Hospital (Ont.),Community — Large,2022–2023,24.3,30.6,6.3,25.93,Increased
+Muskoka Algonquin Healthcare — Huntsville District Mem. Hosp. (Ont.),Muskoka Algonquin Healthcare (Ont.),Community — Medium,2022–2023,27.3,33.5,6.2,22.71,Increased
+Humber River Health — Wilson Site (Ont.),Humber River Health (Ont.),Community — Large,2022–2023,19.9,25.6,5.7,28.64,Increased
+Stevenson Memorial Hospital Corp. — Stevenson Memorial Hospital (Ont.),Stevenson Memorial Hospital Corporation (Ont.),Community — Medium,2022–2023,15.1,20.7,5.6,37.09,Increased
+The Ottawa Hospital — Civic Campus (Ont.),The Ottawa Hospital (Ont.),Teaching,2022–2023,36.6,42.1,5.5,15.03,Increased
+West Nipissing General Hospital (Ont.),–,Community — Small,2022–2023,15.1,20.6,5.5,36.42,Increased
+Almonte General Hospital (Ont.),–,Community — Small,2022–2023,10.9,16.3,5.4,49.54,Increased
+Deep River and District Hospital (Ont.),–,Community — Small,2022–2023,14.2,19.6,5.4,38.03,Increased
+Chatham-Kent Health Alliance — Chatham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Medium,2022–2023,20.7,26.0,5.3,25.6,Increased
+North York General Hospital — General Site (Ont.),North York General Hospital (Ont.),Community — Large,2022–2023,33.7,39.0,5.3,15.73,Increased
+Scarborough Health Network — Centenary (Ont.),Scarborough Health Network (Ont.),Community — Large,2022–2023,34.2,39.5,5.3,15.5,Increased
+Children’s Hospital of Eastern Ontario (Ont.),–,Teaching,2022–2023,20.9,26.1,5.2,24.88,Increased
+Winchester District Memorial Hospital (Ont.),–,Community — Small,2022–2023,15.7,20.8,5.1,32.48,Increased
+Brightshores Health System — Lion’s Head Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2022–2023,11.7,16.4,4.7,40.17,Increased
+Rural Roads Health Services — Alexandra Hospital (Ont.),Rural Roads Health Services (Ont.),Community — Small,2022–2023,21.2,25.8,4.6,21.7,Increased
+Unity Health Toronto — St. Michael’s Hospital (Ont.),Unity Health Toronto (Ont.),Teaching,2022–2023,29.8,34.4,4.6,15.44,Increased
+Niagara Health System — St. Catharines Site (Ont.),Niagara Health System (Ont.),Community — Large,2022–2023,57.5,61.9,4.4,7.65,Increased
+Nipigon District Memorial Hospital (Ont.),–,Community — Small,2022–2023,17.3,21.7,4.4,25.43,Increased
+Halton Healthcare Services — Milton District Hospital (Ont.),Halton Healthcare Services (Ont.),Community — Medium,2022–2023,28.4,32.7,4.3,15.14,Increased
+Lake of the Woods Dist Hosp Corp — Lake of the Woods District Hosp. (Ont.),Lake of the Woods District Hospital Corporation (Ont.),Community — Medium,2022–2023,17.1,21.4,4.3,25.15,Increased
+Woodstock Hospital (Ont.),–,Community — Medium,2022–2023,7.2,11.3,4.1,56.94,Increased
+Pembroke Regional Hospital Inc. (Ont.),–,Community — Medium,2022–2023,23.4,27.1,3.7,15.81,Increased
+Waterloo Regional Health Network — WRHN at Midtown (Ont.),Waterloo Regional Health Network (Ont.),Community — Large,2022–2023,22.8,26.5,3.7,16.23,Increased
+Lennox and Addington County General Hospital (Ont.),–,Community — Small,2022–2023,29.4,33.0,3.6,12.24,Increased
+Brightshores Health System — Wiarton Hospital (Ont.),Brightshores Health System (Ont.),Community — Small,2022–2023,23.0,26.5,3.5,15.22,Increased
+Chatham-Kent Health Alliance — Sydenham Campus (Ont.),Chatham-Kent Health Alliance (Ont.),Community — Small,2022–2023,14.6,18.1,3.5,23.97,Increased
+Hospital for Sick Children (Ont.),–,Teaching,2022–2023,14.7,18.1,3.4,23.13,Increased
+Arnprior Regional Health — Arnprior & District Memorial Hospital (Ont.),Arnprior Regional Health (Ont.),Community — Small,2022–2023,16.1,19.4,3.3,20.5,Increased
+Hamilton Health Sciences — Hamilton General Hospital (Ont.),Hamilton Health Sciences (Ont.),Teaching,2022–2023,30.9,34.2,3.3,10.68,Increased
+Brockville Gen Hosp Corp — Brockville General Hospital (Ont.),Brockville General Hospital Corporation (Ont.),Community — Medium,2022–2023,12.6,15.8,3.2,25.4,Increased
+North Bay Regional Health Centre — North Bay Regional Health Centre (Ont.),North Bay Regional Health Centre (Ont.),Community — Large,2022–2023,24.2,27.3,3.1,12.81,Increased
+Geraldton District Hospital (Ont.),–,Community — Small,2022–2023,21.9,24.9,3.0,13.7,Increased
+Oak Valley Health — Uxbridge Hospital (Ont.),Oak Valley Health (Ont.),Community — Small,2022–2023,19.7,22.7,3.0,15.23,Increased
+Sioux Lookout Meno Ya Win — Sioux Lookout Meno Ya Win Health Centre (Ont.),Sioux Lookout Meno Ya Win Health Centre (Ont.),Community — Medium,2022–2023,13.6,16.3,2.7,19.85,Increased
+West Parry Sound Health Centre (Ont.),–,Community — Medium,2022–2023,15.6,18.3,2.7,17.31,Increased
+Manitoulin Health Centre — Mindemoya Hospital Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2022–2023,13.5,16.1,2.6,19.26,Increased
+Quinte Health — Belleville General Hospital (Ont.),Quinte Health (Ont.),Community — Large,2022–2023,25.8,28.1,2.3,8.91,Increased
+North of Superior Healthcare Group — The McCausland Hospital (Ont.),North of Superior Healthcare Group (Ont.),Community — Small,2022–2023,8.5,10.5,2.0,23.53,Increased
+Santé Manitouwadge Health (Ont.),–,Community — Small,2022–2023,8.9,10.8,1.9,21.35,Increased
+Hôpital Montfort Corp — Hôpital Montfort (Ont.),Hôpital Montfort Corporation (Ont.),Teaching,2022–2023,23.9,25.7,1.8,7.53,Increased
+Red Lake Margaret Cochenour Memorial Hospital (Ont.),–,Community — Small,2022–2023,20.3,22.1,1.8,8.87,Increased
+Riverside Health Care Facilities — La Verendrye Hospital (Ont.),Riverside Health Care Facilities Inc. (Ont.),Community — Small,2022–2023,8.9,10.5,1.6,17.98,Increased
+Mattawa Hospital (Ont.),–,Community — Small,2022–2023,7.8,9.3,1.5,19.23,Increased
+Renfrew Victoria Hospital (Ont.),–,Community — Medium,2022–2023,10.3,11.6,1.3,12.62,Increased
+Carleton Place and District Memorial Hospital (Ont.),–,Community — Small,2022–2023,13.6,14.8,1.2,8.82,Increased
+Ctr for Addiction MH Corp. — Centre for Addiction and Mental Health (Ont.),Centre for Addiction & Mental Health Corporation (Ont.),Teaching,2022–2023,50.3,51.5,1.2,2.39,Increased
+South Bruce Grey Health Centre — Walkerton Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2022–2023,12.5,13.7,1.2,9.6,Increased
+Sensenbrenner Hospital (Ont.),–,Community — Small,2022–2023,8.6,9.7,1.1,12.79,Increased
+Manitoulin Health Centre — Little Current Site (Ont.),Manitoulin Health Centre (Ont.),Community — Small,2022–2023,11.9,12.8,0.9,7.56,Increased
+St. Thomas Elgin General Hospital (Ont.),–,Community — Medium,2022–2023,7.2,8.1,0.9,12.5,Increased
+Smooth Rock Falls Hospital (Ont.),–,Community — Small,2022–2023,6.8,7.6,0.8,11.76,Increased
+South Bruce Grey Health Centre — Chesley Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2022–2023,8.3,9.1,0.8,9.64,Increased
+Listowel Memorial Hospital (Ont.),–,Community — Small,2022–2023,9.0,9.6,0.6,6.67,Increased
+Bluewater Health — Charlotte Eleanor Englehart Hospital (Ont.),Bluewater Health (Ont.),Community — Small,2022–2023,7.8,8.3,0.5,6.41,Increased
+Joseph Brant Hosp Corp — Joseph Brant Hospital (Ont.),Joseph Brant Hospital Corporation (Ont.),Community — Large,2022–2023,24.2,24.6,0.4,1.65,Increased
+Huron Perth Healthcare Alliance — Stratford General Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Medium,2022–2023,13.5,13.8,0.3,2.22,Increased
+Services de santé de Chapleau Health Services (Ont.),–,Community — Small,2022–2023,18.0,18.3,0.3,1.67,Increased
+Temiskaming Hospital (Ont.),–,Community — Medium,2022–2023,10.5,10.8,0.3,2.86,Increased
+Atikokan General Hospital (Ont.),–,Community — Small,2022–2023,8.7,8.9,0.2,2.3,Increased
+MICs Group of Health Services — Anson General Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2022–2023,14.0,14.2,0.2,1.43,Increased
+MICs Group of Health Services — Lady Minto Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2022–2023,12.0,12.2,0.2,1.67,Increased
+Alexandra Marine and General Hospital (Ont.),–,Community — Small,2022–2023,13.5,13.5,0.0,0.0,Unchanged
+Huron Perth Healthcare Alliance — Clinton Public Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2022–2023,7.9,7.9,0.0,0.0,Unchanged
+St. Joseph’s Health Care London — St. Joseph’s Hospital (Ont.),St. Joseph’s Health Care London (Ont.),Teaching,2022–2023,8.1,8.1,0.0,0.0,Unchanged
+North Shore Health Network — Blind River District Health Centre (Ont.),North Shore Health Network (Ont.),Community — Small,2022–2023,11.2,11.0,-0.2,-1.79,Decreased
+South Bruce Grey Health Centre — Durham Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2022–2023,8.7,8.5,-0.2,-2.3,Decreased
+South Bruce Grey Health Centre — Kincardine Site (Ont.),South Bruce Grey Health Centre (Ont.),Community — Small,2022–2023,23.1,22.7,-0.4,-1.73,Decreased
+Blanche River Health — Kirkland and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2022–2023,10.9,10.4,-0.5,-4.59,Decreased
+North Wellington Health Care Corp. — Palmerston and District Hosp. (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2022–2023,9.9,9.4,-0.5,-5.05,Decreased
+Quinte Health — Prince Edward County Memorial (Ont.),Quinte Health (Ont.),Community — Small,2022–2023,27.6,27.1,-0.5,-1.81,Decreased
+MICs Group of Health Services — Bingham Memorial Hospital (Ont.),MICs Group of Health Services (Ont.),Community — Small,2022–2023,12.3,11.7,-0.6,-4.88,Decreased
+Weeneebayko Area Health Authority — Moose Factory Site (Ont.),Weeneebayko Area Health Authority (Ont.),Community — Small,2022–2023,21.8,21.2,-0.6,-2.75,Decreased
+Espanola General Hospital (Ont.),–,Community — Small,2022–2023,12.3,11.6,-0.7,-5.69,Decreased
+Orillia Soldiers’ Mem. Hosp. Corp. — Orillia Soldiers’ Mem. Hosp. (Ont.),Orillia Soldiers’ Memorial Hospital Corporation (Ont.),Community — Medium,2022–2023,28.1,27.3,-0.8,-2.85,Decreased
+Quinte Health — North Hastings District Hospital (Ont.),Quinte Health (Ont.),Community — Small,2022–2023,41.8,41.0,-0.8,-1.91,Decreased
+Wingham and District Hospital (Ont.),–,Community — Small,2022–2023,10.9,10.1,-0.8,-7.34,Decreased
+Hôpital Notre-Dame Hospital (Ont.),–,Community — Small,2022–2023,19.9,18.8,-1.1,-5.53,Decreased
+Huron Perth Healthcare Alliance — Seaforth Community Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2022–2023,18.0,16.8,-1.2,-6.67,Decreased
+Huron Perth Healthcare Alliance — St. Marys Memorial Hospital (Ont.),Huron Perth Healthcare Alliance (Ont.),Community — Small,2022–2023,12.4,11.1,-1.3,-10.48,Decreased
+Michael Garron Hosp Corp — Michael Garron Hospital (Ont.),Michael Garron Hospital Corporation (Ont.),Community — Large,2022–2023,32.1,30.8,-1.3,-4.05,Decreased
+North Wellington Health Care Corp. — Louise Marshall Hospital (Ont.),North Wellington Health Care Corporation (Ont.),Community — Small,2022–2023,16.7,15.2,-1.5,-8.98,Decreased
+South Huron Hospital (Ont.),–,Community — Small,2022–2023,22.5,20.9,-1.6,-7.11,Decreased
+Quinte Health — Trenton Memorial Hospital (Ont.),Quinte Health (Ont.),Community — Small,2022–2023,53.6,51.9,-1.7,-3.17,Decreased
+Blanche River Health — Englehart and District Hospital (Ont.),Blanche River Health (Ont.),Community — Small,2022–2023,14.0,11.9,-2.1,-15.0,Decreased
+Hôpital Glengarry Memorial Hospital (Ont.),–,Community — Small,2022–2023,28.5,24.2,-4.3,-15.09,Decreased
+Dryden Regional Health Centre (Ont.),–,Community — Small,2022–2023,18.7,14.3,-4.4,-23.53,Decreased
+Cornwall Community Hospital — McConnell Avenue Site (Ont.),Cornwall Community Hospital (Ont.),Community — Medium,2022–2023,38.8,34.2,-4.6,-11.86,Decreased
+St. Joseph’s General Hospital (Elliot Lake) (Ont.),–,Community — Medium,2022–2023,50.7,43.4,-7.3,-14.4,Decreased
+Lady Dunn Health Centre (Ont.),–,Community — Small,2022–2023,20.1,11.9,-8.2,-40.8,Decreased
+Timmins and District Hospital Corp — Timmins and District Hosp (Ont.),Timmins and District Hospital Corporation (Ont.),Community — Medium,2022–2023,24.1,15.7,-8.4,-34.85,Decreased
